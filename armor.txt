@@ -1,0 +1,3299 @@
+		#helm
+		set {item.type::2001} to 2
+		set {item.name::2001} to "&6Leather Cap"
+		set {item.phys::2001} to 1
+		set {item.fire::2001} to 0
+		set {item.wate::2001} to 0
+		set {item.eart::2001} to 0
+		set {item.wind::2001} to 0
+		set {item.pois::2001} to 1
+		set {item.blee::2001} to 4
+		set {item.slow::2001} to 0
+		set {item.lore::2001} to "A peasant's leather cap. Cheap and durable, but not particularly effective."
+		set {item.item::2001} to leather helmet
+		set {id.Leather Cap} to 2001
+
+		#chest
+		set {item.type::2002} to 2
+		set {item.name::2002} to "&6Leather Shirt"
+		set {item.phys::2002} to 1
+		set {item.fire::2002} to 0
+		set {item.wate::2002} to 0
+		set {item.eart::2002} to 0
+		set {item.wind::2002} to 0
+		set {item.pois::2002} to 2
+		set {item.blee::2002} to 3
+		set {item.slow::2002} to 0
+		set {item.lore::2002} to "A peasant's leather shirt. Cheap and durable, but not particularly effective."
+		set {item.item::2002} to leather chestplate
+		set {id.Leather Shirt} to 2002
+
+		#leg
+		set {item.type::2003} to 2
+		set {item.name::2003} to "&6Leather Pants"
+		set {item.phys::2003} to 1
+		set {item.fire::2003} to 0
+		set {item.wate::2003} to 0
+		set {item.eart::2003} to 0
+		set {item.wind::2003} to 0
+		set {item.pois::2003} to 1
+		set {item.blee::2003} to 3
+		set {item.slow::2003} to 1
+		set {item.lore::2003} to "A peasant's pair of leather pants. Cheap and durable, but not particularly effective."
+		set {item.item::2003} to leather leggings
+		set {id.Leather Pants} to 2003
+
+		#boot
+		set {item.type::2004} to 2
+		set {item.name::2004} to "&6Leather Shoes"
+		set {item.phys::2004} to 1
+		set {item.fire::2004} to 0
+		set {item.wate::2004} to 0
+		set {item.eart::2004} to 0
+		set {item.wind::2004} to 0
+		set {item.pois::2004} to 2
+		set {item.blee::2004} to 2
+		set {item.slow::2004} to 1
+		set {item.lore::2004} to "A peasant's pair of leather boots. Cheap and durable, but not particularly effective."
+		set {item.item::2004} to leather boots
+		set {id.Leather Shoes} to 2004
+
+		#helm
+		set {item.type::2005} to 2
+		set {item.name::2005} to "&6Bandit Hood"
+		set {item.phys::2005} to 1
+		set {item.fire::2005} to 1
+		set {item.wate::2005} to 1
+		set {item.eart::2005} to 0
+		set {item.wind::2005} to 1
+		set {item.pois::2005} to 9
+		set {item.blee::2005} to 14
+		set {item.slow::2005} to 4
+		set {item.lore::2005} to "A hood used by petty criminals to hide their face. Resilient against status effects, but not much else."
+		set {item.item::2005} to 1 of {saveitem.Bandit_Hood}
+		set {id.Bandit Hood} to 2005
+
+		#chest
+		set {item.type::2006} to 2
+		set {item.name::2006} to "&6Bandit Cloak"
+		set {item.phys::2006} to 3
+		set {item.fire::2006} to 0
+		set {item.wate::2006} to 1
+		set {item.eart::2006} to 1
+		set {item.wind::2006} to 1
+		set {item.pois::2006} to 7
+		set {item.blee::2006} to 11
+		set {item.slow::2006} to 4
+		set {item.lore::2006} to "A light cloak often worn by petty criminals to escape. Resilient against status effects, but not much else."
+		set {item.item::2006} to 1 of {saveitem.Bandit_Cloak}
+		set {id.Bandit Cloak} to 2006
+
+		#leg
+		set {item.type::2007} to 2
+		set {item.name::2007} to "&6Bandit Trousers"
+		set {item.phys::2007} to 2
+		set {item.fire::2007} to 1
+		set {item.wate::2007} to 1
+		set {item.eart::2007} to 0
+		set {item.wind::2007} to 2
+		set {item.pois::2007} to 6
+		set {item.blee::2007} to 11
+		set {item.slow::2007} to 6
+		set {item.lore::2007} to "A pair of trousers worn by bandits. Resilient against status effects, but not much else."
+		set {item.item::2007} to 1 of {saveitem.Bandit_Trousers}
+		set {id.Bandit Trousers} to 2007
+
+		#boot
+		set {item.type::2008} to 2
+		set {item.name::2008} to "&6Bandit Boots"
+		set {item.phys::2008} to 0
+		set {item.fire::2008} to 0
+		set {item.wate::2008} to 3
+		set {item.eart::2008} to 0
+		set {item.wind::2008} to 1
+		set {item.pois::2008} to 7
+		set {item.blee::2008} to 10
+		set {item.slow::2008} to 11
+		set {item.lore::2008} to "A pair of boots used to escape through rough terrain. Resilient against status effects, but not much else."
+		set {item.item::2008} to 1 of {saveitem.Bandit_Boots}
+		set {id.Bandit Boots} to 2008
+
+		#helm
+		set {item.type::2009} to 2
+		set {item.name::2009} to "&6Pygmy Helm"
+		set {item.phys::2009} to 3
+		set {item.fire::2009} to 0
+		set {item.wate::2009} to 7
+		set {item.eart::2009} to 0
+		set {item.wind::2009} to 0
+		set {item.pois::2009} to 11
+		set {item.blee::2009} to 2
+		set {item.slow::2009} to 3
+		set {item.lore::2009} to "A small helmet worn by the Pygmies who reside in the Great Hollow. Its craftsmanship is unusually intricate for the brutish Pygmies."
+		set {item.item::2009} to 1 of {saveitem.Pygmy_Helm}
+		set {id.Pygmy Helm} to 2009
+
+		#chest
+		set {item.type::2010} to 2
+		set {item.name::2010} to "&6Pygmy Tunic"
+		set {item.phys::2010} to 4
+		set {item.fire::2010} to 0
+		set {item.wate::2010} to 8
+		set {item.eart::2010} to 0
+		set {item.wind::2010} to 0
+		set {item.pois::2010} to 12
+		set {item.blee::2010} to 3
+		set {item.slow::2010} to 3
+		set {item.lore::2010} to "A small tunic worn by the Pygmies who reside in the Great Hollow. Its craftsmanship is unusually intricate for the brutish Pygmies."
+		set {item.item::2010} to 1 of {saveitem.Pygmy_Tunic}
+		set {id.Pygmy Tunic} to 2010
+
+		#leg
+		set {item.type::2011} to 2
+		set {item.name::2011} to "&6Pygmy Leggings"
+		set {item.phys::2011} to 3
+		set {item.fire::2011} to 0
+		set {item.wate::2011} to 8
+		set {item.eart::2011} to 0
+		set {item.wind::2011} to 0
+		set {item.pois::2011} to 9
+		set {item.blee::2011} to 4
+		set {item.slow::2011} to 2
+		set {item.lore::2011} to "A small pair of leggings worn by the Pygmies who reside in the Great Hollow. Its craftsmanship is unusually intricate for the brutish Pygmies."
+		set {item.item::2011} to 1 of {saveitem.Pygmy_Leggings}
+		set {id.Pygmy Leggings} to 2011
+
+		#boot
+		set {item.type::2012} to 2
+		set {item.name::2012} to "&6Pygmy Shoes"
+		set {item.phys::2012} to 1
+		set {item.fire::2012} to 0
+		set {item.wate::2012} to 6
+		set {item.eart::2012} to 0
+		set {item.wind::2012} to 0
+		set {item.pois::2012} to 10
+		set {item.blee::2012} to 2
+		set {item.slow::2012} to 3
+		set {item.lore::2012} to "A small pair of shoes worn by the Pygmies who reside in the Great Hollow. Its craftsmanship is unusually intricate for the brutish Pygmies."
+		set {item.item::2012} to 1 of {saveitem.Pygmy_Shoes}
+		set {id.Pygmy Shoes} to 2012
+
+		#helm
+		set {item.type::2013} to 2
+		set {item.name::2013} to "&6Leather Helmet"
+		set {item.phys::2013} to 3
+		set {item.fire::2013} to 0
+		set {item.wate::2013} to 1
+		set {item.eart::2013} to 0
+		set {item.wind::2013} to 2
+		set {item.pois::2013} to 3
+		set {item.blee::2013} to 4
+		set {item.slow::2013} to 3
+		set {item.lore::2013} to "A sturdy helmet fashioned out of leather."
+		set {item.item::2013} to leather helmet
+		set {id.Leather Helmet} to 2013
+
+		#chest
+		set {item.type::2014} to 2
+		set {item.name::2014} to "&6Leather Chestplate"
+		set {item.phys::2014} to 4
+		set {item.fire::2014} to 1
+		set {item.wate::2014} to 0
+		set {item.eart::2014} to 1
+		set {item.wind::2014} to 1
+		set {item.pois::2014} to 1
+		set {item.blee::2014} to 4
+		set {item.slow::2014} to 0
+		set {item.lore::2014} to "A sturdy chestplate fashioned out of leather."
+		set {item.item::2014} to leather chestplate
+		set {id.Leather Chestplate} to 2014
+
+		#leg
+		set {item.type::2015} to 2
+		set {item.name::2015} to "&6Leather Leggings"
+		set {item.phys::2015} to 3
+		set {item.fire::2015} to 0
+		set {item.wate::2015} to 1
+		set {item.eart::2015} to 0
+		set {item.wind::2015} to 2
+		set {item.pois::2015} to 2
+		set {item.blee::2015} to 2
+		set {item.slow::2015} to 1
+		set {item.lore::2015} to "A sturdy pair of leggings fashioned out of leather."
+		set {item.item::2015} to leather leggings
+		set {id.Leather Leggings} to 2015
+
+		#boot
+		set {item.type::2016} to 2
+		set {item.name::2016} to "&6Leather Boots"
+		set {item.phys::2016} to 3
+		set {item.fire::2016} to 0
+		set {item.wate::2016} to 1
+		set {item.eart::2016} to 2
+		set {item.wind::2016} to 0
+		set {item.pois::2016} to 0
+		set {item.blee::2016} to 2
+		set {item.slow::2016} to 1
+		set {item.lore::2016} to "A sturdy pair of boots fashioned out of leather."
+		set {item.item::2016} to leather boots
+		set {id.Leather Boots} to 2016
+
+		#helm
+		set {item.type::2017} to 2
+		set {item.name::2017} to "&6Chainmail Helmet"
+		set {item.phys::2017} to 4
+		set {item.fire::2017} to 5
+		set {item.wate::2017} to 0
+		set {item.eart::2017} to 0
+		set {item.wind::2017} to 0
+		set {item.pois::2017} to 1
+		set {item.blee::2017} to 12
+		set {item.slow::2017} to 0
+		set {item.lore::2017} to "A helmet crafted out of interlocking rings."
+		set {item.item::2017} to Chainmail helmet
+		set {id.Chainmail Helmet} to 2017
+
+		#chest
+		set {item.type::2018} to 2
+		set {item.name::2018} to "&6Chainmail Chestplate"
+		set {item.phys::2018} to 6
+		set {item.fire::2018} to 3
+		set {item.wate::2018} to 0
+		set {item.eart::2018} to 0
+		set {item.wind::2018} to 0
+		set {item.pois::2018} to 2
+		set {item.blee::2018} to 10
+		set {item.slow::2018} to 1
+		set {item.lore::2018} to "A chestplate crafted out of interlocking rings."
+		set {item.item::2018} to Chainmail chestplate
+		set {id.Chainmail Chestplate} to 2018
+
+		#leg
+		set {item.type::2019} to 2
+		set {item.name::2019} to "&6Chainmail Leggings"
+		set {item.phys::2019} to 5
+		set {item.fire::2019} to 4
+		set {item.wate::2019} to 0
+		set {item.eart::2019} to 0
+		set {item.wind::2019} to 0
+		set {item.pois::2019} to 0
+		set {item.blee::2019} to 13
+		set {item.slow::2019} to 0
+		set {item.lore::2019} to "A pair of leggings crafted out of interlocking rings."
+		set {item.item::2019} to Chainmail leggings
+		set {id.Chainmail Leggings} to 2019
+
+		#boot
+		set {item.type::2020} to 2
+		set {item.name::2020} to "&6Chainmail Boots"
+		set {item.phys::2020} to 3
+		set {item.fire::2020} to 5
+		set {item.wate::2020} to 1
+		set {item.eart::2020} to 0
+		set {item.wind::2020} to 0
+		set {item.pois::2020} to 3
+		set {item.blee::2020} to 8
+		set {item.slow::2020} to 2
+		set {item.lore::2020} to "A pair of boots crafted out of interlocking rings."
+		set {item.item::2020} to Chainmail boots
+		set {id.Chainmail Boots} to 2020
+
+		#helm
+		set {item.type::2021} to 2
+		set {item.name::2021} to "&6Death Helm"
+		set {item.phys::2021} to 0
+		set {item.fire::2021} to 3
+		set {item.wate::2021} to 4
+		set {item.eart::2021} to 4
+		set {item.wind::2021} to 4
+		set {item.pois::2021} to 4
+		set {item.blee::2021} to 6
+		set {item.slow::2021} to 5
+		set {item.lore::2021} to "A helmet enchanted with the powers of necromancy to ward off the elements. Absorbs a small amount of HP from fallen enemies."
+		set {item.item::2021} to 1 of {saveitem.Death_Helm}
+		set {id.Death Helm} to 2021
+
+		#chest
+		set {item.type::2022} to 2
+		set {item.name::2022} to "&6Death Tunic"
+		set {item.phys::2022} to 0
+		set {item.fire::2022} to 5
+		set {item.wate::2022} to 3
+		set {item.eart::2022} to 3
+		set {item.wind::2022} to 4
+		set {item.pois::2022} to 6
+		set {item.blee::2022} to 6
+		set {item.slow::2022} to 3
+		set {item.lore::2022} to "A tunic enchanted with the powers of necromancy to ward off the elements. Absorbs a small amount of HP from fallen enemies."
+		set {item.item::2022} to 1 of {saveitem.Death_Tunic}
+		set {id.Death Tunic} to 2022
+
+		#leg
+		set {item.type::2023} to 2
+		set {item.name::2023} to "&6Death Leggings"
+		set {item.phys::2023} to 0
+		set {item.fire::2023} to 4
+		set {item.wate::2023} to 3
+		set {item.eart::2023} to 4
+		set {item.wind::2023} to 4
+		set {item.pois::2023} to 3
+		set {item.blee::2023} to 5
+		set {item.slow::2023} to 7
+		set {item.lore::2023} to "A pair of leggings enchanted with the powers of necromancy to ward off the elements. Absorbs a small amount of HP from fallen enemies."
+		set {item.item::2023} to 1 of {saveitem.Death_Leggings}
+		set {id.Death Leggings} to 2023
+
+		#boot
+		set {item.type::2024} to 2
+		set {item.name::2024} to "&6Death Boots"
+		set {item.phys::2024} to 0
+		set {item.fire::2024} to 3
+		set {item.wate::2024} to 5
+		set {item.eart::2024} to 4
+		set {item.wind::2024} to 4
+		set {item.pois::2024} to 2
+		set {item.blee::2024} to 4
+		set {item.slow::2024} to 5
+		set {item.lore::2024} to "A pair of boots enchanted with the powers of necromancy to ward off the elements. Absorbs a small amount of HP from fallen enemies."
+		set {item.item::2024} to 1 of {saveitem.Death_Boots}
+		set {id.Death Boots} to 2024
+
+		#helm
+		set {item.type::2025} to 2
+		set {item.name::2025} to "&6Deep Helmet"
+		set {item.phys::2025} to 3
+		set {item.fire::2025} to 0
+		set {item.wate::2025} to 1
+		set {item.eart::2025} to 5
+		set {item.wind::2025} to 0
+		set {item.pois::2025} to 0
+		set {item.blee::2025} to 3
+		set {item.slow::2025} to 12
+		set {item.lore::2025} to "A mildew covered helmet that was likely pilfered from an unfortunate adventurer by the inhabitants of Darkwater Cave."
+		set {item.item::2025} to 1 of {saveitem.Deep_Helmet}
+		set {id.Deep Helmet} to 2025
+
+		#chest
+		set {item.type::2026} to 2
+		set {item.name::2026} to "&6Deep Chestplate"
+		set {item.phys::2026} to 5
+		set {item.fire::2026} to 1
+		set {item.wate::2026} to 0
+		set {item.eart::2026} to 3
+		set {item.wind::2026} to 0
+		set {item.pois::2026} to 0
+		set {item.blee::2026} to 5
+		set {item.slow::2026} to 10
+		set {item.lore::2026} to "A mildew covered chestplate that was likely pilfered from an unfortunate adventurer by the inhabitants of Darkwater Cave."
+		set {item.item::2026} to 1 of {saveitem.Deep_Chestplate}
+		set {id.Deep Chestplate} to 2026
+
+		#leg
+		set {item.type::2027} to 2
+		set {item.name::2027} to "&6Deep Leggings"
+		set {item.phys::2027} to 4
+		set {item.fire::2027} to 0
+		set {item.wate::2027} to 0
+		set {item.eart::2027} to 4
+		set {item.wind::2027} to 1
+		set {item.pois::2027} to 1
+		set {item.blee::2027} to 3
+		set {item.slow::2027} to 11
+		set {item.lore::2027} to "A mildew covered pair of leggings that was likely pilfered from an unfortunate adventurer by the inhabitants of Darkwater Cave."
+		set {item.item::2027} to 1 of {saveitem.Deep_Leggings}
+		set {id.Deep Leggings} to 2027
+
+		#boot
+		set {item.type::2028} to 2
+		set {item.name::2028} to "&6Deep Boots"
+		set {item.phys::2028} to 2
+		set {item.fire::2028} to 1
+		set {item.wate::2028} to 1
+		set {item.eart::2028} to 5
+		set {item.wind::2028} to 0
+		set {item.pois::2028} to 0
+		set {item.blee::2028} to 2
+		set {item.slow::2028} to 13
+		set {item.lore::2028} to "A mildew covered pair of boots that was likely pilfered from an unfortunate adventurer by the inhabitants of Darkwater Cave."
+		set {item.item::2028} to 1 of {saveitem.Deep_Boots}
+		set {id.Deep Boots} to 2028
+
+		#helm
+		set {item.type::2029} to 2
+		set {item.name::2029} to "&6Bark Helmet"
+		set {item.phys::2029} to 5
+		set {item.fire::2029} to -9
+		set {item.wate::2029} to 2
+		set {item.eart::2029} to 6
+		set {item.wind::2029} to 1
+		set {item.pois::2029} to 8
+		set {item.blee::2029} to 0
+		set {item.slow::2029} to 2
+		set {item.lore::2029} to "A highly flammable helmet crafted out of the bark of an ent."
+		set {item.item::2029} to 1 of {saveitem.Bark_Helmet}
+		set {id.Bark Helmet} to 2029
+
+		#chest
+		set {item.type::2030} to 2
+		set {item.name::2030} to "&6Bark Chestplate"
+		set {item.phys::2030} to 7
+		set {item.fire::2030} to -12
+		set {item.wate::2030} to 1
+		set {item.eart::2030} to 7
+		set {item.wind::2030} to 2
+		set {item.pois::2030} to 6
+		set {item.blee::2030} to 0
+		set {item.slow::2030} to 5
+		set {item.lore::2030} to "A highly flammable chestplate crafted out of the bark of an ent."
+		set {item.item::2030} to 1 of {saveitem.Bark_Chestplate}
+		set {id.Bark Chestplate} to 2030
+
+		#leg
+		set {item.type::2031} to 2
+		set {item.name::2031} to "&6Bark Leggings"
+		set {item.phys::2031} to 6
+		set {item.fire::2031} to -10
+		set {item.wate::2031} to 2
+		set {item.eart::2031} to 5
+		set {item.wind::2031} to 2
+		set {item.pois::2031} to 9
+		set {item.blee::2031} to 0
+		set {item.slow::2031} to 2
+		set {item.lore::2031} to "A highly flammable pair of leggings crafted out of the bark of an ent."
+		set {item.item::2031} to 1 of {saveitem.Bark_Leggings}
+		set {id.Bark Leggings} to 2031
+
+		#boot
+		set {item.type::2032} to 2
+		set {item.name::2032} to "&6Bark Boots"
+		set {item.phys::2032} to 5
+		set {item.fire::2032} to -8
+		set {item.wate::2032} to 1
+		set {item.eart::2032} to 5
+		set {item.wind::2032} to 1
+		set {item.pois::2032} to 7
+		set {item.blee::2032} to 0
+		set {item.slow::2032} to 3
+		set {item.lore::2032} to "A highly flammable pair of boots crafted out of the bark of an ent."
+		set {item.item::2032} to 1 of {saveitem.Bark_Boots}
+		set {id.Bark Boots} to 2032
+
+		#helm
+		set {item.type::2033} to 2
+		set {item.name::2033} to "&6Rusty Chainmail Helmet"
+		set {item.phys::2033} to 3
+		set {item.fire::2033} to 4
+		set {item.wate::2033} to 2
+		set {item.eart::2033} to 0
+		set {item.wind::2033} to 0
+		set {item.pois::2033} to 1
+		set {item.blee::2033} to 7
+		set {item.slow::2033} to 5
+		set {item.lore::2033} to "A chainmail helmet that has degraded over time."
+		set {item.item::2033} to Chainmail helmet
+		set {id.Rusty Chainmail Helmet} to 2033
+
+		#chest
+		set {item.type::2034} to 2
+		set {item.name::2034} to "&6Rusty Chainmail Chestplate"
+		set {item.phys::2034} to 5
+		set {item.fire::2034} to 1
+		set {item.wate::2034} to 3
+		set {item.eart::2034} to 0
+		set {item.wind::2034} to 0
+		set {item.pois::2034} to 2
+		set {item.blee::2034} to 6
+		set {item.slow::2034} to 5
+		set {item.lore::2034} to "A chainmail chestplate that has degraded over time."
+		set {item.item::2034} to Chainmail chestplate
+		set {id.Rusty Chainmail Chestplate} to 2034
+
+		#leg
+		set {item.type::2035} to 2
+		set {item.name::2035} to "&6Rusty Chainmail Leggings"
+		set {item.phys::2035} to 3
+		set {item.fire::2035} to 3
+		set {item.wate::2035} to 3
+		set {item.eart::2035} to 0
+		set {item.wind::2035} to 0
+		set {item.pois::2035} to 1
+		set {item.blee::2035} to 7
+		set {item.slow::2035} to 5
+		set {item.lore::2035} to "A chainmail pair of leggings that has degraded over time."
+		set {item.item::2035} to Chainmail leggings
+		set {id.Rusty Chainmail Leggings} to 2035
+
+		#boot
+		set {item.type::2036} to 2
+		set {item.name::2036} to "&6Rusty Chainmail Boots"
+		set {item.phys::2036} to 2
+		set {item.fire::2036} to 2
+		set {item.wate::2036} to 5
+		set {item.eart::2036} to 0
+		set {item.wind::2036} to 0
+		set {item.pois::2036} to 2
+		set {item.blee::2036} to 7
+		set {item.slow::2036} to 4
+		set {item.lore::2036} to "A chainmail pair of boots that has degraded over time."
+		set {item.item::2036} to Chainmail boots
+		set {id.Rusty Chainmail Boots} to 2036
+
+		#helm
+		set {item.type::2037} to 2
+		set {item.name::2037} to "&6Archer Helmet"
+		set {item.phys::2037} to 1
+		set {item.fire::2037} to 0
+		set {item.wate::2037} to 3
+		set {item.eart::2037} to 6
+		set {item.wind::2037} to 4
+		set {item.pois::2037} to 3
+		set {item.blee::2037} to 0
+		set {item.slow::2037} to 7
+		set {item.lore::2037} to "A helmet worn by woodlands archers to blend in with the environment."
+		set {item.item::2037} to chainmail helmet
+		set {id.Archer Helmet} to 2037
+
+		#chest
+		set {item.type::2038} to 2
+		set {item.name::2038} to "&6Archer Tunic"
+		set {item.phys::2038} to 2
+		set {item.fire::2038} to 0
+		set {item.wate::2038} to 5
+		set {item.eart::2038} to 6
+		set {item.wind::2038} to 1
+		set {item.pois::2038} to 4
+		set {item.blee::2038} to 1
+		set {item.slow::2038} to 5
+		set {item.lore::2038} to "A tunic worn by woodlands archers to blend in with the environment."
+		set {item.item::2038} to 1 of {saveitem.Archer_Chestplate}
+		set {id.Archer Tunic} to 2038
+
+		#leg
+		set {item.type::2039} to 2
+		set {item.name::2039} to "&6Archer Leggings"
+		set {item.phys::2039} to 2
+		set {item.fire::2039} to 0
+		set {item.wate::2039} to 3
+		set {item.eart::2039} to 4
+		set {item.wind::2039} to 5
+		set {item.pois::2039} to 6
+		set {item.blee::2039} to 0
+		set {item.slow::2039} to 4
+		set {item.lore::2039} to "A pair of leggings worn by woodlands archers to blend in with the environment."
+		set {item.item::2039} to 1 of {saveitem.Archer_Leggings}
+		set {id.Archer Leggings} to 2039
+
+		#boot
+		set {item.type::2040} to 2
+		set {item.name::2040} to "&6Archer Boots"
+		set {item.phys::2040} to 1
+		set {item.fire::2040} to 1
+		set {item.wate::2040} to 4
+		set {item.eart::2040} to 5
+		set {item.wind::2040} to 3
+		set {item.pois::2040} to 5
+		set {item.blee::2040} to 0
+		set {item.slow::2040} to 5
+		set {item.lore::2040} to "A pair of boots worn by woodlands archers to blend in with the environment."
+		set {item.item::2040} to 1 of {saveitem.Archer_Boots}
+		set {id.Archer Boots} to 2040
+
+		#helm
+		set {item.type::2041} to 2
+		set {item.name::2041} to "&6Rogue Hood"
+		set {item.phys::2041} to 2
+		set {item.fire::2041} to 0
+		set {item.wate::2041} to 1
+		set {item.eart::2041} to 2
+		set {item.wind::2041} to 6
+		set {item.pois::2041} to 4
+		set {item.blee::2041} to 5
+		set {item.slow::2041} to 7
+		set {item.lore::2041} to "A hood designed to conceal the wearer's face and keep dust out of their eyes."
+		set {item.item::2041} to 1 of {saveitem.Rogue_Hood}
+		set {id.Rogue Hood} to 2041
+
+		#chest
+		set {item.type::2042} to 2
+		set {item.name::2042} to "&6Rogue Cloak"
+		set {item.phys::2042} to 4
+		set {item.fire::2042} to 0
+		set {item.wate::2042} to 2
+		set {item.eart::2042} to 0
+		set {item.wind::2042} to 5
+		set {item.pois::2042} to 5
+		set {item.blee::2042} to 6
+		set {item.slow::2042} to 5
+		set {item.lore::2042} to "A cloak designed to enable the wearer to blend in with the shadows."
+		set {item.item::2042} to 1 of {saveitem.Rogue_Cloak}
+		set {id.Rogue Cloak} to 2042
+
+		#leg
+		set {item.type::2043} to 2
+		set {item.name::2043} to "&6Rogue Leggings"
+		set {item.phys::2043} to 3
+		set {item.fire::2043} to 0
+		set {item.wate::2043} to 1
+		set {item.eart::2043} to 1
+		set {item.wind::2043} to 6
+		set {item.pois::2043} to 4
+		set {item.blee::2043} to 7
+		set {item.slow::2043} to 5
+		set {item.lore::2043} to "A pair of leggings designed to enable the wearer to blend in with the shadows."
+		set {item.item::2043} to 1 of {saveitem.Rogue_Leggings}
+		set {id.Rogue Leggings} to 2043
+
+		#boot
+		set {item.type::2044} to 2
+		set {item.name::2044} to "&6Rogue Boots"
+		set {item.phys::2044} to 1
+		set {item.fire::2044} to 0
+		set {item.wate::2044} to 1
+		set {item.eart::2044} to 0
+		set {item.wind::2044} to 9
+		set {item.pois::2044} to 6
+		set {item.blee::2044} to 6
+		set {item.slow::2044} to 4
+		set {item.lore::2044} to "A pair of boots designed to enable the wearer to blend in with the shadows."
+		set {item.item::2044} to 1 of {saveitem.Rogue_Boots}
+		set {id.Rogue Boots} to 2044
+
+		#chest
+		set {item.type::2045} to 2
+		set {item.name::2045} to "&6Wolf Pelt"
+		set {item.phys::2045} to 8
+		set {item.fire::2045} to 0
+		set {item.wate::2045} to 0
+		set {item.eart::2045} to 0
+		set {item.wind::2045} to 8
+		set {item.pois::2045} to 0
+		set {item.blee::2045} to 0
+		set {item.slow::2045} to 0
+		set {item.lore::2045} to "A coat made out of the fur from a wolf."
+		set {item.item::2045} to 1 of {saveitem.Wolf_Pelt}
+		set {id.Wolf Pelt} to 2045
+
+		#helm
+		set {item.type::2046} to 2
+		set {item.name::2046} to "&6Safety Helmet"
+		set {item.phys::2046} to 4
+		set {item.fire::2046} to 0
+		set {item.wate::2046} to 0
+		set {item.eart::2046} to 2
+		set {item.wind::2046} to 0
+		set {item.pois::2046} to 2
+		set {item.blee::2046} to 3
+		set {item.slow::2046} to 1
+		set {item.lore::2046} to "A helmet worn by a Dysmere miner who had their mind stolen. Provides extra defense against plunging attacks."
+		set {item.item::2046} to 1 of {saveitem.Safety_Helmet}
+		set {id.Safety Helmet} to 2046
+
+		#chest
+		set {item.type::2047} to 2
+		set {item.name::2047} to "&6Safety Vest"
+		set {item.phys::2047} to 5
+		set {item.fire::2047} to 0
+		set {item.wate::2047} to 0
+		set {item.eart::2047} to 7
+		set {item.wind::2047} to 0
+		set {item.pois::2047} to 1
+		set {item.blee::2047} to 3
+		set {item.slow::2047} to 2
+		set {item.lore::2047} to "A vest worn by a Dysmere miner who had their mind stolen."
+		set {item.item::2047} to 1 of {saveitem.Safety_Vest}
+		set {id.Safety Vest} to 2047
+
+		#leg
+		set {item.type::2048} to 2
+		set {item.name::2048} to "&6Safety Pants"
+		set {item.phys::2048} to 4
+		set {item.fire::2048} to 0
+		set {item.wate::2048} to 0
+		set {item.eart::2048} to 7
+		set {item.wind::2048} to 1
+		set {item.pois::2048} to 3
+		set {item.blee::2048} to 1
+		set {item.slow::2048} to 2
+		set {item.lore::2048} to "A pair of pants worn by a Dysmere miner who had their mind stolen."
+		set {item.item::2048} to 1 of {saveitem.Safety_Pants}
+		set {id.Safety Pants} to 2048
+
+		#boot
+		set {item.type::2049} to 2
+		set {item.name::2049} to "&6Safety Boots"
+		set {item.phys::2049} to 3
+		set {item.fire::2049} to 0
+		set {item.wate::2049} to 0
+		set {item.eart::2049} to 9
+		set {item.wind::2049} to 0
+		set {item.pois::2049} to 2
+		set {item.blee::2049} to 1
+		set {item.slow::2049} to 3
+		set {item.lore::2049} to "A pair of boots worn by a Dysmere miner who had their mind stolen."
+		set {item.item::2049} to 1 of {saveitem.Safety_Boots}
+		set {id.Safety Boots} to 2049
+
+		#helm
+		set {item.type::2050} to 2
+		set {item.name::2050} to "&6Crimson Helm"
+		set {item.phys::2050} to 3
+		set {item.fire::2050} to 0
+		set {item.wate::2050} to 0
+		set {item.eart::2050} to 0
+		set {item.wind::2050} to 0
+		set {item.pois::2050} to 14
+		set {item.blee::2050} to 12
+		set {item.slow::2050} to 7
+		set {item.lore::2050} to "A helmet commonly worn by the Crimson Knights, who invade and pillage the weak."
+		set {item.item::2050} to 1 of {saveitem.Crimson_Helm}
+		set {id.Crimson Helm} to 2050
+
+		#chest
+		set {item.type::2051} to 2
+		set {item.name::2051} to "&6Crimson Chestplate"
+		set {item.phys::2051} to 3
+		set {item.fire::2051} to 0
+		set {item.wate::2051} to 0
+		set {item.eart::2051} to 0
+		set {item.wind::2051} to 0
+		set {item.pois::2051} to 12
+		set {item.blee::2051} to 13
+		set {item.slow::2051} to 8
+		set {item.lore::2051} to "A chestplate commonly worn by the Crimson Knights, who invade and pillage the weak."
+		set {item.item::2051} to 1 of glowing {saveitem.Crimson_Chestplate}
+		set {id.Crimson Chestplate} to 2051
+
+		#leg
+		set {item.type::2052} to 2
+		set {item.name::2052} to "&6Crimson Leggings"
+		set {item.phys::2052} to 2
+		set {item.fire::2052} to 0
+		set {item.wate::2052} to 0
+		set {item.eart::2052} to 0
+		set {item.wind::2052} to 0
+		set {item.pois::2052} to 11
+		set {item.blee::2052} to 14
+		set {item.slow::2052} to 9
+		set {item.lore::2052} to "A pair of leggings commonly worn by the Crimson Knights, who invade and pillage the weak."
+		set {item.item::2052} to 1 of glowing {saveitem.Crimson_Leggings}
+		set {id.Crimson Leggings} to 2052
+
+		#boot
+		set {item.type::2053} to 2
+		set {item.name::2053} to "&6Crimson Boots"
+		set {item.phys::2053} to 1
+		set {item.fire::2053} to 0
+		set {item.wate::2053} to 0
+		set {item.eart::2053} to 0
+		set {item.wind::2053} to 0
+		set {item.pois::2053} to 15
+		set {item.blee::2053} to 11
+		set {item.slow::2053} to 9
+		set {item.lore::2053} to "A pair of boots commonly worn by the Crimson Knights, who invade and pillage the weak."
+		set {item.item::2053} to 1 of glowing {saveitem.Crimson_Boots}
+		set {id.Crimson Boots} to 2053
+
+		#helm
+		set {item.type::2054} to 2
+		set {item.name::2054} to "&6Sunlight Helm"
+		set {item.phys::2054} to 3
+		set {item.fire::2054} to 4
+		set {item.wate::2054} to 2
+		set {item.eart::2054} to 3
+		set {item.wind::2054} to 3
+		set {item.pois::2054} to 0
+		set {item.blee::2054} to 0
+		set {item.slow::2054} to 0
+		set {item.lore::2054} to "A helmet commonly worn by the Sunlight Warriors, who help those in need."
+		set {item.item::2054} to 1 of {saveitem.Sunlight_Helm}
+		set {id.Sunlight Helm} to 2054
+
+		#chest
+		set {item.type::2055} to 2
+		set {item.name::2055} to "&6Sunlight Chestplate"
+		set {item.phys::2055} to 4
+		set {item.fire::2055} to 3
+		set {item.wate::2055} to 3
+		set {item.eart::2055} to 2
+		set {item.wind::2055} to 3
+		set {item.pois::2055} to 0
+		set {item.blee::2055} to 0
+		set {item.slow::2055} to 0
+		set {item.lore::2055} to "A chestplate commonly worn by the Sunlight Warriors, who help those in need."
+		set {item.item::2055} to 1 of glowing {saveitem.Sunlight_Chestplate}
+		set {id.Sunlight Chestplate} to 2055
+
+		#leg
+		set {item.type::2056} to 2
+		set {item.name::2056} to "&6Sunlight Leggings"
+		set {item.phys::2056} to 3
+		set {item.fire::2056} to 4
+		set {item.wate::2056} to 3
+		set {item.eart::2056} to 3
+		set {item.wind::2056} to 2
+		set {item.pois::2056} to 0
+		set {item.blee::2056} to 0
+		set {item.slow::2056} to 0
+		set {item.lore::2056} to "A pair of leggings commonly worn by the Sunlight Warriors, who help those in need."
+		set {item.item::2056} to 1 of glowing {saveitem.Sunlight_Leggings}
+		set {id.Sunlight Leggings} to 2056
+
+		#boot
+		set {item.type::2057} to 2
+		set {item.name::2057} to "&6Sunlight Boots"
+		set {item.phys::2057} to 2
+		set {item.fire::2057} to 4
+		set {item.wate::2057} to 3
+		set {item.eart::2057} to 3
+		set {item.wind::2057} to 3
+		set {item.pois::2057} to 0
+		set {item.blee::2057} to 0
+		set {item.slow::2057} to 0
+		set {item.lore::2057} to "A pair of boots commonly worn by the Sunlight Warriors, who help those in need."
+		set {item.item::2057} to 1 of glowing gold boots
+		set {id.Sunlight Boots} to 2057
+
+		#helm
+		set {item.type::2058} to 2
+		set {item.name::2058} to "&6Molten Helmet"
+		set {item.phys::2058} to 1
+		set {item.fire::2058} to 7
+		set {item.wate::2058} to 0
+		set {item.eart::2058} to 1
+		set {item.wind::2058} to 0
+		set {item.pois::2058} to 2
+		set {item.blee::2058} to 2
+		set {item.slow::2058} to 4
+		set {item.lore::2058} to "A helmet worn by guardians of the seal of fire to resist the heat of Ashen Peak."
+		set {item.item::2058} to gold helmet
+		set {id.Molten Helmet} to 2058
+
+		#chest
+		set {item.type::2059} to 2
+		set {item.name::2059} to "&6Molten Chestplate"
+		set {item.phys::2059} to 2
+		set {item.fire::2059} to 7
+		set {item.wate::2059} to 0
+		set {item.eart::2059} to 2
+		set {item.wind::2059} to 0
+		set {item.pois::2059} to 1
+		set {item.blee::2059} to 2
+		set {item.slow::2059} to 2
+		set {item.lore::2059} to "A chestplate worn by guardians of the seal of fire to resist the heat of Ashen Peak."
+		set {item.item::2059} to gold chestplate
+		set {id.Molten Chestplate} to 2059
+
+		#leg
+		set {item.type::2060} to 2
+		set {item.name::2060} to "&6Molten Leggings"
+		set {item.phys::2060} to 2
+		set {item.fire::2060} to 6
+		set {item.wate::2060} to 0
+		set {item.eart::2060} to 1
+		set {item.wind::2060} to 0
+		set {item.pois::2060} to 3
+		set {item.blee::2060} to 2
+		set {item.slow::2060} to 3
+		set {item.lore::2060} to "A pair of leggings worn by guardians of the seal of fire to resist the heat of Ashen Peak."
+		set {item.item::2060} to gold leggings
+		set {id.Molten Leggings} to 2060
+
+		#boot
+		set {item.type::2061} to 2
+		set {item.name::2061} to "&6Molten Boots"
+		set {item.phys::2061} to 1
+		set {item.fire::2061} to 8
+		set {item.wate::2061} to 0
+		set {item.eart::2061} to 0
+		set {item.wind::2061} to 0
+		set {item.pois::2061} to 3
+		set {item.blee::2061} to 1
+		set {item.slow::2061} to 4
+		set {item.lore::2061} to "A pair of boots worn by guardians of the seal of fire to resist the heat of Ashen Peak."
+		set {item.item::2061} to gold boots
+		set {id.Molten Boots} to 2061
+
+		#helm
+		set {item.type::2062} to 2
+		set {item.name::2062} to "&6Soggy Bark Helmet"
+		set {item.phys::2062} to 2
+		set {item.fire::2062} to -1
+		set {item.wate::2062} to 6
+		set {item.eart::2062} to 0
+		set {item.wind::2062} to 0
+		set {item.pois::2062} to 11
+		set {item.blee::2062} to 0
+		set {item.slow::2062} to 4
+		set {item.lore::2062} to "A helmet formed from the bark of a Flaming Ent, who were formed when the anima intended for an idol seeped into the burning trees of the Pits."
+		set {item.item::2062} to 1 of {saveitem.Bark_Helmet}
+		set {id.Soggy Bark Helmet} to 2062
+
+		#chest
+		set {item.type::2063} to 2
+		set {item.name::2063} to "&6Soggy Bark Chestplate"
+		set {item.phys::2063} to 3
+		set {item.fire::2063} to -2
+		set {item.wate::2063} to 5
+		set {item.eart::2063} to 0
+		set {item.wind::2063} to 0
+		set {item.pois::2063} to 12
+		set {item.blee::2063} to 0
+		set {item.slow::2063} to 3
+		set {item.lore::2063} to "A chestplate formed from the bark of a Flaming Ent, who were formed when the anima intended for an idol seeped into the burning trees of the Pits."
+		set {item.item::2063} to 1 of {saveitem.Bark_Chestplate}
+		set {id.Soggy Bark Chestplate} to 2063
+
+		#leg
+		set {item.type::2064} to 2
+		set {item.name::2064} to "&6Soggy Bark Leggings"
+		set {item.phys::2064} to 2
+		set {item.fire::2064} to -2
+		set {item.wate::2064} to 6
+		set {item.eart::2064} to 0
+		set {item.wind::2064} to 0
+		set {item.pois::2064} to 9
+		set {item.blee::2064} to 0
+		set {item.slow::2064} to 5
+		set {item.lore::2064} to "A pair of leggings formed from the bark of a Flaming Ent, who were formed when the anima intended for an idol seeped into the burning trees of the Pits."
+		set {item.item::2064} to 1 of {saveitem.Bark_Leggings}
+		set {id.Soggy Bark Leggings} to 2064
+
+		#boot
+		set {item.type::2065} to 2
+		set {item.name::2065} to "&6Soggy Bark Boots"
+		set {item.phys::2065} to 1
+		set {item.fire::2065} to -1
+		set {item.wate::2065} to 4
+		set {item.eart::2065} to 0
+		set {item.wind::2065} to 0
+		set {item.pois::2065} to 13
+		set {item.blee::2065} to 0
+		set {item.slow::2065} to 2
+		set {item.lore::2065} to "A pair of boots formed from the bark of a Flaming Ent, who were formed when the anima intended for idol seeped into the burning trees of the Pits."
+		set {item.item::2065} to 1 of {saveitem.Bark_Boots}
+		set {id.Soggy Bark Boots} to 2065
+
+		#helm
+		set {item.type::2066} to 2
+		set {item.name::2066} to "&6Mining Helmet"
+		set {item.phys::2066} to 4
+		set {item.fire::2066} to 3
+		set {item.wate::2066} to 0
+		set {item.eart::2066} to 3
+		set {item.wind::2066} to 0
+		set {item.pois::2066} to 6
+		set {item.blee::2066} to 2
+		set {item.slow::2066} to 3
+		set {item.lore::2066} to "A helmet formerly worn by Dysmere miners. Its unfortunately low bleed resistance led to the bloodrot claiming their lives."
+		set {item.item::2066} to gold helmet
+		set {id.Mining Helmet} to 2066
+
+		#chest
+		set {item.type::2067} to 2
+		set {item.name::2067} to "&6Mining Vest"
+		set {item.phys::2067} to 5
+		set {item.fire::2067} to 2
+		set {item.wate::2067} to 0
+		set {item.eart::2067} to 3
+		set {item.wind::2067} to 0
+		set {item.pois::2067} to 5
+		set {item.blee::2067} to 2
+		set {item.slow::2067} to 4
+		set {item.lore::2067} to "A vest formerly worn by Dysmere miners. Its unfortunately low bleed resistance led to the bloodrot claiming their lives."
+		set {item.item::2067} to gold chestplate
+		set {id.Mining Vest} to 2067
+
+		#leg
+		set {item.type::2068} to 2
+		set {item.name::2068} to "&6Mining Trousers"
+		set {item.phys::2068} to 4
+		set {item.fire::2068} to 3
+		set {item.wate::2068} to 0
+		set {item.eart::2068} to 3
+		set {item.wind::2068} to 0
+		set {item.pois::2068} to 4
+		set {item.blee::2068} to 1
+		set {item.slow::2068} to 2
+		set {item.lore::2068} to "A pair of trousers formerly worn by Dysmere miners. Its unfortunately low bleed resistance led to the bloodrot claiming their lives."
+		set {item.item::2068} to gold leggings
+		set {id.Mining Trousers} to 2068
+
+		#boot
+		set {item.type::2069} to 2
+		set {item.name::2069} to "&6Mining Boots"
+		set {item.phys::2069} to 3
+		set {item.fire::2069} to 3
+		set {item.wate::2069} to 0
+		set {item.eart::2069} to 4
+		set {item.wind::2069} to 0
+		set {item.pois::2069} to 3
+		set {item.blee::2069} to 1
+		set {item.slow::2069} to 3
+		set {item.lore::2069} to "A pair of boots formerly worn by Dysmere miners. Its unfortunately low bleed resistance led to the bloodrot claiming their lives."
+		set {item.item::2069} to gold boots
+		set {id.Mining Boots} to 2069
+
+		#helm
+		set {item.type::2070} to 2
+		set {item.name::2070} to "&6Defiled Helm"
+		set {item.phys::2070} to 0
+		set {item.fire::2070} to 0
+		set {item.wate::2070} to 0
+		set {item.eart::2070} to 0
+		set {item.wind::2070} to 0
+		set {item.pois::2070} to 18
+		set {item.blee::2070} to 17
+		set {item.slow::2070} to 20
+		set {item.lore::2070} to "A corrupted helmet worn by the inhabitants of the Pits, who had their memories stolen due to their weak minds. Causes attacks to inflict status ailments."
+		set {item.item::2070} to 1 of {saveitem.Defiled_Helm}
+		set {id.Defiled Helm} to 2070
+
+		#chest
+		set {item.type::2071} to 2
+		set {item.name::2071} to "&6Defiled Chestplate"
+		set {item.phys::2071} to 0
+		set {item.fire::2071} to 0
+		set {item.wate::2071} to 0
+		set {item.eart::2071} to 0
+		set {item.wind::2071} to 0
+		set {item.pois::2071} to 22
+		set {item.blee::2071} to 15
+		set {item.slow::2071} to 28
+		set {item.lore::2071} to "A corrupted chestplate worn by the inhabitants of the Pits, who had their memories stolen due to their weak minds. Causes attacks to inflict status ailments."
+		set {item.item::2071} to 1 of {saveitem.Defiled_Chestplate}
+		set {id.Defiled Chestplate} to 2071
+
+		#leg
+		set {item.type::2072} to 2
+		set {item.name::2072} to "&6Defiled Leggings"
+		set {item.phys::2072} to 0
+		set {item.fire::2072} to 0
+		set {item.wate::2072} to 0
+		set {item.eart::2072} to 0
+		set {item.wind::2072} to 0
+		set {item.pois::2072} to 15
+		set {item.blee::2072} to 24
+		set {item.slow::2072} to 16
+		set {item.lore::2072} to "A corrupted pair of leggings worn by the inhabitants of the Pits, who had their memories stolen due to their weak minds. Causes attacks to inflict status ailments."
+		set {item.item::2072} to 1 of {saveitem.Defiled_Leggings}
+		set {id.Defiled Leggings} to 2072
+
+		#boot
+		set {item.type::2073} to 2
+		set {item.name::2073} to "&6Defiled Boots"
+		set {item.phys::2073} to 0
+		set {item.fire::2073} to 0
+		set {item.wate::2073} to 0
+		set {item.eart::2073} to 0
+		set {item.wind::2073} to 0
+		set {item.pois::2073} to 26
+		set {item.blee::2073} to 16
+		set {item.slow::2073} to 15
+		set {item.lore::2073} to "A corrupted pair of boots worn by the inhabitants of the Pits, who had their memories stolen due to their weak minds. Causes attacks to inflict status ailments."
+		set {item.item::2073} to 1 of {saveitem.Defiled_Boots}
+		set {id.Defiled Boots} to 2073
+
+		#helm
+		set {item.type::2074} to 2
+		set {item.name::2074} to "&6Blood Helm"
+		set {item.phys::2074} to 1
+		set {item.fire::2074} to 0
+		set {item.wate::2074} to 0
+		set {item.eart::2074} to 2
+		set {item.wind::2074} to 3
+		set {item.pois::2074} to 0
+		set {item.blee::2074} to 17
+		set {item.slow::2074} to 0
+		set {item.lore::2074} to "A safety helmet that was soaked in blood after the former wearer fell victim to blood rot."
+		set {item.item::2074} to 1 of {saveitem.Blood_Helm}
+		set {id.Blood Helm} to 2074
+
+		#chest
+		set {item.type::2075} to 2
+		set {item.name::2075} to "&6Blood Plate"
+		set {item.phys::2075} to 2
+		set {item.fire::2075} to 0
+		set {item.wate::2075} to 0
+		set {item.eart::2075} to 2
+		set {item.wind::2075} to 2
+		set {item.pois::2075} to 0
+		set {item.blee::2075} to 15
+		set {item.slow::2075} to 0
+		set {item.lore::2075} to "A safety vest that was soaked in blood after the former wearer fell victim to blood rot."
+		set {item.item::2075} to 1 of {saveitem.Blood_Plate}
+		set {id.Blood Plate} to 2075
+
+		#leg
+		set {item.type::2076} to 2
+		set {item.name::2076} to "&6Blood Leggings"
+		set {item.phys::2076} to 1
+		set {item.fire::2076} to 0
+		set {item.wate::2076} to 0
+		set {item.eart::2076} to 2
+		set {item.wind::2076} to 3
+		set {item.pois::2076} to 0
+		set {item.blee::2076} to 18
+		set {item.slow::2076} to 0
+		set {item.lore::2076} to "A pair of safety leggings that were soaked in blood after the former wearer fell victim to blood rot."
+		set {item.item::2076} to 1 of {saveitem.Blood_Leggings}
+		set {id.Blood Leggings} to 2076
+
+		#boot
+		set {item.type::2077} to 2
+		set {item.name::2077} to "&6Blood Boots"
+		set {item.phys::2077} to 1
+		set {item.fire::2077} to 0
+		set {item.wate::2077} to 0
+		set {item.eart::2077} to 3
+		set {item.wind::2077} to 2
+		set {item.pois::2077} to 0
+		set {item.blee::2077} to 19
+		set {item.slow::2077} to 0
+		set {item.lore::2077} to "A pair of safety boots that were soaked in blood after the former wearer fell victim to blood rot."
+		set {item.item::2077} to 1 of {saveitem.Blood_Boots}
+		set {id.Blood Boots} to 2077
+
+		#helm
+		set {item.type::2078} to 2
+		set {item.name::2078} to "&6Mist Helmet"
+		set {item.phys::2078} to 1
+		set {item.fire::2078} to 0
+		set {item.wate::2078} to 3
+		set {item.eart::2078} to 0
+		set {item.wind::2078} to 7
+		set {item.pois::2078} to 3
+		set {item.blee::2078} to 2
+		set {item.slow::2078} to 9
+		set {item.lore::2078} to "A light helmet designed to blend in with the environment used by hunters in the Illusory Forest."
+		set {item.item::2078} to 1 of {saveitem.Mist_Helmet}
+		set {id.Mist Helmet} to 2078
+
+		#chest
+		set {item.type::2079} to 2
+		set {item.name::2079} to "&6Mist Chestplate"
+		set {item.phys::2079} to 2
+		set {item.fire::2079} to 0
+		set {item.wate::2079} to 3
+		set {item.eart::2079} to 0
+		set {item.wind::2079} to 6
+		set {item.pois::2079} to 2
+		set {item.blee::2079} to 4
+		set {item.slow::2079} to 8
+		set {item.lore::2079} to "A light chestplate designed to blend in with the environment used by hunters in the Illusory Forest."
+		set {item.item::2079} to 1 of {saveitem.Mist_Chestplate}
+		set {id.Mist Chestplate} to 2079
+
+		#leg
+		set {item.type::2080} to 2
+		set {item.name::2080} to "&6Mist Leggings"
+		set {item.phys::2080} to 2
+		set {item.fire::2080} to 0
+		set {item.wate::2080} to 1
+		set {item.eart::2080} to 0
+		set {item.wind::2080} to 8
+		set {item.pois::2080} to 3
+		set {item.blee::2080} to 3
+		set {item.slow::2080} to 8
+		set {item.lore::2080} to "A light pair of leggings designed to blend in with the environment used by hunters in the Illusory Forest."
+		set {item.item::2080} to 1 of {saveitem.Mist_Leggings}
+		set {id.Mist Leggings} to 2080
+
+		#boot
+		set {item.type::2081} to 2
+		set {item.name::2081} to "&6Mist Boots"
+		set {item.phys::2081} to 0
+		set {item.fire::2081} to 0
+		set {item.wate::2081} to 3
+		set {item.eart::2081} to 0
+		set {item.wind::2081} to 8
+		set {item.pois::2081} to 2
+		set {item.blee::2081} to 2
+		set {item.slow::2081} to 10
+		set {item.lore::2081} to "A light pair of boots designed to blend in with the environment used by hunters in the Illusory Forest."
+		set {item.item::2081} to 1 of {saveitem.Mist_Boots}
+		set {id.Mist Boots} to 2081
+
+		#helm
+		set {item.type::2082} to 2
+		set {item.name::2082} to "&6Goblin Helm"
+		set {item.phys::2082} to 7
+		set {item.fire::2082} to -1
+		set {item.wate::2082} to -2
+		set {item.eart::2082} to -1
+		set {item.wind::2082} to -2
+		set {item.pois::2082} to 4
+		set {item.blee::2082} to 8
+		set {item.slow::2082} to 6
+		set {item.lore::2082} to "An iron helmet provided by the guardian of the seal of wind to the mindless residents of the Illusory Forest."
+		set {item.item::2082} to Iron helmet
+		set {id.Goblin Helm} to 2082
+
+		#chest
+		set {item.type::2083} to 2
+		set {item.name::2083} to "&6Goblin Mail"
+		set {item.phys::2083} to 8
+		set {item.fire::2083} to -2
+		set {item.wate::2083} to -2
+		set {item.eart::2083} to -3
+		set {item.wind::2083} to -1
+		set {item.pois::2083} to 5
+		set {item.blee::2083} to 7
+		set {item.slow::2083} to 6
+		set {item.lore::2083} to "An iron chestplate provided by the guardian of the seal of wind to the mindless residents of the Illusory Forest."
+		set {item.item::2083} to Iron chestplate
+		set {id.Goblin Mail} to 2083
+
+		#leg
+		set {item.type::2084} to 2
+		set {item.name::2084} to "&6Goblin Leggings"
+		set {item.phys::2084} to 8
+		set {item.fire::2084} to -2
+		set {item.wate::2084} to -1
+		set {item.eart::2084} to -2
+		set {item.wind::2084} to -2
+		set {item.pois::2084} to 4
+		set {item.blee::2084} to 6
+		set {item.slow::2084} to 8
+		set {item.lore::2084} to "A pair of iron leggings provided by the guardian of the seal of wind to the mindless residents of the Illusory Forest."
+		set {item.item::2084} to Iron leggings
+		set {id.Goblin Leggings} to 2084
+
+		#boot
+		set {item.type::2085} to 2
+		set {item.name::2085} to "&6Goblin Boots"
+		set {item.phys::2085} to 6
+		set {item.fire::2085} to -1
+		set {item.wate::2085} to -1
+		set {item.eart::2085} to -1
+		set {item.wind::2085} to -2
+		set {item.pois::2085} to 6
+		set {item.blee::2085} to 5
+		set {item.slow::2085} to 7
+		set {item.lore::2085} to "A pair of iron boots provided by the guardian of the seal of wind to the mindless residents of the Illusory Forest."
+		set {item.item::2085} to Iron boots
+		set {id.Goblin Boots} to 2085
+
+		#helm
+		set {item.type::2086} to 2
+		set {item.name::2086} to "&6Temple Shawl"
+		set {item.phys::2086} to 1
+		set {item.fire::2086} to 0
+		set {item.wate::2086} to 3
+		set {item.eart::2086} to 7
+		set {item.wind::2086} to 0
+		set {item.pois::2086} to 7
+		set {item.blee::2086} to 2
+		set {item.slow::2086} to 5
+		set {item.lore::2086} to "A cloth helmet worn by adherents in the Temple of Idols who serve the progenitor of the pygmy races."
+		set {item.item::2086} to 1 of {saveitem.Temple_Shawl}
+		set {id.Temple Shawl} to 2086
+
+		#chest
+		set {item.type::2087} to 2
+		set {item.name::2087} to "&6Temple Attire"
+		set {item.phys::2087} to 2
+		set {item.fire::2087} to 0
+		set {item.wate::2087} to 3
+		set {item.eart::2087} to 6
+		set {item.wind::2087} to 0
+		set {item.pois::2087} to 6
+		set {item.blee::2087} to 4
+		set {item.slow::2087} to 4
+		set {item.lore::2087} to "A cloth chestplate worn by adherents in the Temple of Idols who serve the progenitor of the pygmy races."
+		set {item.item::2087} to 1 of {saveitem.Temple_Attire}
+		set {id.Temple Attire} to 2087
+
+		#leg
+		set {item.type::2088} to 2
+		set {item.name::2088} to "&6Temple Trousers"
+		set {item.phys::2088} to 2
+		set {item.fire::2088} to 0
+		set {item.wate::2088} to 1
+		set {item.eart::2088} to 8
+		set {item.wind::2088} to 0
+		set {item.pois::2088} to 6
+		set {item.blee::2088} to 3
+		set {item.slow::2088} to 5
+		set {item.lore::2088} to "A cloth pair of trousers worn by adherents in the Temple of Idols who serve the progenitor of the pygmy races."
+		set {item.item::2088} to 1 of {saveitem.Temple_Trousers}
+		set {id.Temple Trousers} to 2088
+
+		#boot
+		set {item.type::2089} to 2
+		set {item.name::2089} to "&6Temple Footwear"
+		set {item.phys::2089} to 0
+		set {item.fire::2089} to 0
+		set {item.wate::2089} to 3
+		set {item.eart::2089} to 8
+		set {item.wind::2089} to 0
+		set {item.pois::2089} to 8
+		set {item.blee::2089} to 2
+		set {item.slow::2089} to 4
+		set {item.lore::2089} to "A cloth pair of shoes worn by adherents in the Temple of Idols who serve the progenitor of the pygmy races."
+		set {item.item::2089} to 1 of {saveitem.Temple_Footwear}
+		set {id.Temple Footwear} to 2089
+
+		#helm
+		set {item.type::2090} to 2
+		set {item.name::2090} to "&6Idol Mask"
+		set {item.phys::2090} to 0
+		set {item.fire::2090} to -50
+		set {item.wate::2090} to 0
+		set {item.eart::2090} to 0
+		set {item.wind::2090} to 0
+		set {item.pois::2090} to 8
+		set {item.blee::2090} to 8
+		set {item.slow::2090} to 8
+		set {item.lore::2090} to "A mask of an idol created by the Sculptor. Enchanted with a hex that increases fire damage dealt and taken."
+		set {item.item::2090} to 1 of {saveitem.Idol_Mask}
+		set {id.Idol Mask} to 2090
+
+		#chest
+		set {item.type::2091} to 2
+		set {item.name::2091} to "&6Idol Torso"
+		set {item.phys::2091} to 3
+		set {item.fire::2091} to 0
+		set {item.wate::2091} to 2
+		set {item.eart::2091} to 5
+		set {item.wind::2091} to 3
+		set {item.pois::2091} to 6
+		set {item.blee::2091} to 8
+		set {item.slow::2091} to 7
+		set {item.lore::2091} to "The hollowed out torso of an idol created by the Sculptor."
+		set {item.item::2091} to 1 of {saveitem.Idol_Torso}
+		set {id.Idol Torso} to 2091
+
+		#leg
+		set {item.type::2092} to 2
+		set {item.name::2092} to "&6Idol Legs"
+		set {item.phys::2092} to 3
+		set {item.fire::2092} to 0
+		set {item.wate::2092} to 3
+		set {item.eart::2092} to 4
+		set {item.wind::2092} to 3
+		set {item.pois::2092} to 8
+		set {item.blee::2092} to 7
+		set {item.slow::2092} to 6
+		set {item.lore::2092} to "The hollowed out legs of an idol created by the Sculptor."
+		set {item.item::2092} to 1 of {saveitem.Idol_Legs}
+		set {id.Idol Legs} to 2092
+
+		#boot
+		set {item.type::2093} to 2
+		set {item.name::2093} to "&6Idol Feet"
+		set {item.phys::2093} to 2
+		set {item.fire::2093} to 0
+		set {item.wate::2093} to 2
+		set {item.eart::2093} to 6
+		set {item.wind::2093} to 4
+		set {item.pois::2093} to 7
+		set {item.blee::2093} to 8
+		set {item.slow::2093} to 6
+		set {item.lore::2093} to "The hollowed out feet of an idol created by the Sculptor."
+		set {item.item::2093} to 1 of {saveitem.Idol_Feet}
+		set {id.Idol Feet} to 2093
+
+		#helm
+		set {item.type::2094} to 2
+		set {item.name::2094} to "&6Ice Helmet"
+		set {item.phys::2094} to 1
+		set {item.fire::2094} to 0
+		set {item.wate::2094} to 10
+		set {item.eart::2094} to 0
+		set {item.wind::2094} to 0
+		set {item.pois::2094} to 1
+		set {item.blee::2094} to 0
+		set {item.slow::2094} to 14
+		set {item.lore::2094} to "A helmet fashioned out of eternal ice worn by those who watch over the seal of water. Slightly increases water damage inflicted."
+		set {item.item::2094} to 1 of glowing {saveitem.Ice_Helmet}
+		set {id.Ice Helmet} to 2094
+
+		#chest
+		set {item.type::2095} to 2
+		set {item.name::2095} to "&6Ice Chestplate"
+		set {item.phys::2095} to 2
+		set {item.fire::2095} to 0
+		set {item.wate::2095} to 9
+		set {item.eart::2095} to 0
+		set {item.wind::2095} to 0
+		set {item.pois::2095} to 2
+		set {item.blee::2095} to 1
+		set {item.slow::2095} to 11
+		set {item.lore::2095} to "A chestplate fashioned out of eternal ice worn by those who watch over the seal of water."
+		set {item.item::2095} to 1 of glowing {saveitem.Ice_Chestplate}
+		set {id.Ice Chestplate} to 2095
+
+		#leg
+		set {item.type::2096} to 2
+		set {item.name::2096} to "&6Ice Leggings"
+		set {item.phys::2096} to 2
+		set {item.fire::2096} to 0
+		set {item.wate::2096} to 10
+		set {item.eart::2096} to 0
+		set {item.wind::2096} to 0
+		set {item.pois::2096} to 0
+		set {item.blee::2096} to 0
+		set {item.slow::2096} to 12
+		set {item.lore::2096} to "A pair of leggings fashioned out of eternal ice worn by those who watch over the seal of water."
+		set {item.item::2096} to 1 of glowing {saveitem.Ice_Leggings}
+		set {id.Ice Leggings} to 2096
+
+		#boot
+		set {item.type::2097} to 2
+		set {item.name::2097} to "&6Ice Boots"
+		set {item.phys::2097} to 0
+		set {item.fire::2097} to 0
+		set {item.wate::2097} to 11
+		set {item.eart::2097} to 0
+		set {item.wind::2097} to 0
+		set {item.pois::2097} to 1
+		set {item.blee::2097} to 1
+		set {item.slow::2097} to 13
+		set {item.lore::2097} to "A pair of boots fashioned out of eternal ice worn by those who watch over the seal of water."
+		set {item.item::2097} to 1 of glowing {saveitem.Ice_Boots}
+		set {id.Ice Boots} to 2097
+
+		#helm
+		set {item.type::2098} to 2
+		set {item.name::2098} to "&6Crystalized Helmet"
+		set {item.phys::2098} to 2
+		set {item.fire::2098} to 4
+		set {item.wate::2098} to 2
+		set {item.eart::2098} to 1
+		set {item.wind::2098} to 0
+		set {item.pois::2098} to 4
+		set {item.blee::2098} to 7
+		set {item.slow::2098} to 3
+		set {item.lore::2098} to "A normal leather helmet that has been crystalized over centuries."
+		set {item.item::2098} to 1 of {saveitem.Crystalized_Helmet}
+		set {id.Crystalized Helmet} to 2098
+
+		#chest
+		set {item.type::2099} to 2
+		set {item.name::2099} to "&6Crystalized Tunic"
+		set {item.phys::2099} to 3
+		set {item.fire::2099} to 4
+		set {item.wate::2099} to 1
+		set {item.eart::2099} to 1
+		set {item.wind::2099} to 0
+		set {item.pois::2099} to 5
+		set {item.blee::2099} to 6
+		set {item.slow::2099} to 3
+		set {item.lore::2099} to "A normal leather chestplate that has been crystalized over centuries."
+		set {item.item::2099} to 1 of {saveitem.Crystalized_Tunic}
+		set {id.Crystalized Tunic} to 2099
+
+		#leg
+		set {item.type::2100} to 2
+		set {item.name::2100} to "&6Crystalized Leggings"
+		set {item.phys::2100} to 2
+		set {item.fire::2100} to 5
+		set {item.wate::2100} to 1
+		set {item.eart::2100} to 1
+		set {item.wind::2100} to 0
+		set {item.pois::2100} to 4
+		set {item.blee::2100} to 6
+		set {item.slow::2100} to 4
+		set {item.lore::2100} to "A normal pair of leather leggings that has been crystalized over centuries."
+		set {item.item::2100} to 1 of {saveitem.Crystalized_Leggings}
+		set {id.Crystalized Leggings} to 2100
+
+		#boot
+		set {item.type::2101} to 2
+		set {item.name::2101} to "&6Crystalized Boots"
+		set {item.phys::2101} to 1
+		set {item.fire::2101} to 4
+		set {item.wate::2101} to 2
+		set {item.eart::2101} to 2
+		set {item.wind::2101} to 0
+		set {item.pois::2101} to 5
+		set {item.blee::2101} to 5
+		set {item.slow::2101} to 4
+		set {item.lore::2101} to "A normal pair of leather boots that has been crystalized over centuries."
+		set {item.item::2101} to 1 of {saveitem.Crystalized_Boots}
+		set {id.Crystalized Boots} to 2101
+
+		#helm
+		set {item.type::2102} to 2
+		set {item.name::2102} to "&6Iron Helmet"
+		set {item.phys::2102} to 4
+		set {item.fire::2102} to 2
+		set {item.wate::2102} to 1
+		set {item.eart::2102} to 0
+		set {item.wind::2102} to 1
+		set {item.pois::2102} to 0
+		set {item.blee::2102} to 3
+		set {item.slow::2102} to 0
+		set {item.lore::2102} to "An ordinary iron helmet that was animated to life by the guardian of the seal of wind."
+		set {item.item::2102} to 1 of {saveitem.Iron_Head}
+		set {id.Iron Helmet} to 2102
+
+		#chest
+		set {item.type::2103} to 2
+		set {item.name::2103} to "&6Iron Chestplate"
+		set {item.phys::2103} to 5
+		set {item.fire::2103} to 2
+		set {item.wate::2103} to 1
+		set {item.eart::2103} to 0
+		set {item.wind::2103} to 1
+		set {item.pois::2103} to 0
+		set {item.blee::2103} to 2
+		set {item.slow::2103} to 0
+		set {item.lore::2103} to "A completely ordinary iron chestplate that was animated to life by the guardian of the seal of wind."
+		set {item.item::2103} to Iron chestplate
+		set {id.Iron Chestplate} to 2103
+
+		#leg
+		set {item.type::2104} to 2
+		set {item.name::2104} to "&6Iron Leggings"
+		set {item.phys::2104} to 4
+		set {item.fire::2104} to 2
+		set {item.wate::2104} to 1
+		set {item.eart::2104} to 0
+		set {item.wind::2104} to 2
+		set {item.pois::2104} to 0
+		set {item.blee::2104} to 2
+		set {item.slow::2104} to 0
+		set {item.lore::2104} to "A completely ordinary pair of iron leggings that was animated to life by the guardian of the seal of wind."
+		set {item.item::2104} to Iron leggings
+		set {id.Iron Leggings} to 2104
+
+		#boot
+		set {item.type::2105} to 2
+		set {item.name::2105} to "&6Iron Boots"
+		set {item.phys::2105} to 4
+		set {item.fire::2105} to 3
+		set {item.wate::2105} to 0
+		set {item.eart::2105} to 0
+		set {item.wind::2105} to 1
+		set {item.pois::2105} to 0
+		set {item.blee::2105} to 3
+		set {item.slow::2105} to 0
+		set {item.lore::2105} to "A completely ordinary pair of iron boots that was animated to life by the guardian of the seal of wind."
+		set {item.item::2105} to Iron boots
+		set {id.Iron Boots} to 2105
+
+		#helm
+		set {item.type::2106} to 2
+		set {item.name::2106} to "&6Executioner Mask"
+		set {item.phys::2106} to 2
+		set {item.fire::2106} to 0
+		set {item.wate::2106} to 0
+		set {item.eart::2106} to 0
+		set {item.wind::2106} to 1
+		set {item.pois::2106} to 14
+		set {item.blee::2106} to 12
+		set {item.slow::2106} to 9
+		set {item.lore::2106} to "A bloodstained mask worn by an executioner tasked with bringing anima to the master of Phantasmagoria. Reduces the damage incurred by bleed."
+		set {item.item::2106} to 1 of {saveitem.Executioner_Mask}
+		set {id.Executioner Mask} to 2106
+
+		#chest
+		set {item.type::2107} to 2
+		set {item.name::2107} to "&6Executioner Tunic"
+		set {item.phys::2107} to 3
+		set {item.fire::2107} to 0
+		set {item.wate::2107} to 0
+		set {item.eart::2107} to 0
+		set {item.wind::2107} to 1
+		set {item.pois::2107} to 11
+		set {item.blee::2107} to 10
+		set {item.slow::2107} to 9
+		set {item.lore::2107} to "A bloodstained tunic worn by an ancient executioner tasked with bringing anima to the master of Phantasmagoria. Reduces the damage incurred by bleed."
+		set {item.item::2107} to 1 of {saveitem.Executioner_Tunic}
+		set {id.Executioner Tunic} to 2107
+
+		#leg
+		set {item.type::2108} to 2
+		set {item.name::2108} to "&6Executioner Leggings"
+		set {item.phys::2108} to 2
+		set {item.fire::2108} to 0
+		set {item.wate::2108} to 0
+		set {item.eart::2108} to 0
+		set {item.wind::2108} to 2
+		set {item.pois::2108} to 12
+		set {item.blee::2108} to 10
+		set {item.slow::2108} to 8
+		set {item.lore::2108} to "A bloodstained pair of leggings worn by an ancient executioner tasked with bringing anima to the master of Phantasmagoria. Reduces the damage incurred by bleed."
+		set {item.item::2108} to 1 of {saveitem.Executioner_Leggings}
+		set {id.Executioner Leggings} to 2108
+
+		#boot
+		set {item.type::2109} to 2
+		set {item.name::2109} to "&6Executioner Boots"
+		set {item.phys::2109} to 1
+		set {item.fire::2109} to 0
+		set {item.wate::2109} to 0
+		set {item.eart::2109} to 0
+		set {item.wind::2109} to 2
+		set {item.pois::2109} to 15
+		set {item.blee::2109} to 13
+		set {item.slow::2109} to 7
+		set {item.lore::2109} to "A bloodstained pair of boots worn by an ancient executioner tasked with bringing anima to the master of Phantasmagoria. Reduces the damage incurred by bleed."
+		set {item.item::2109} to 1 of {saveitem.Executioner_Boots}
+		set {id.Executioner Boots} to 2109
+
+		#helm
+		set {item.type::2110} to 2
+		set {item.name::2110} to "&6Sackcloth Hood"
+		set {item.phys::2110} to 0
+		set {item.fire::2110} to 0
+		set {item.wate::2110} to 5
+		set {item.eart::2110} to 4
+		set {item.wind::2110} to 7
+		set {item.pois::2110} to 6
+		set {item.blee::2110} to 4
+		set {item.slow::2110} to 2
+		set {item.lore::2110} to "A hood cut out of sackcloth, worn as penance."
+		set {item.item::2110} to 1 of {saveitem.Sackcloth_Hood}
+		set {id.Sackcloth Hood} to 2110
+
+		#chest
+		set {item.type::2111} to 2
+		set {item.name::2111} to "&6Sackcloth Tunic"
+		set {item.phys::2111} to 0
+		set {item.fire::2111} to 0
+		set {item.wate::2111} to 4
+		set {item.eart::2111} to 6
+		set {item.wind::2111} to 6
+		set {item.pois::2111} to 5
+		set {item.blee::2111} to 4
+		set {item.slow::2111} to 3
+		set {item.lore::2111} to "A tunic cut out of sackcloth, worn as penance."
+		set {item.item::2111} to 1 of {saveitem.Sackcloth_Tunic}
+		set {id.Sackcloth Tunic} to 2111
+
+		#leg
+		set {item.type::2112} to 2
+		set {item.name::2112} to "&6Sackcloth Leggings"
+		set {item.phys::2112} to 0
+		set {item.fire::2112} to 0
+		set {item.wate::2112} to 5
+		set {item.eart::2112} to 5
+		set {item.wind::2112} to 6
+		set {item.pois::2112} to 4
+		set {item.blee::2112} to 4
+		set {item.slow::2112} to 4
+		set {item.lore::2112} to "A pair of leggings cut out of sackcloth, worn as penance."
+		set {item.item::2112} to 1 of {saveitem.Sackcloth_Leggings}
+		set {id.Sackcloth Leggings} to 2112
+
+		#boot
+		set {item.type::2113} to 2
+		set {item.name::2113} to "&6Sackcloth Boots"
+		set {item.phys::2113} to 0
+		set {item.fire::2113} to 0
+		set {item.wate::2113} to 5
+		set {item.eart::2113} to 6
+		set {item.wind::2113} to 5
+		set {item.pois::2113} to 5
+		set {item.blee::2113} to 3
+		set {item.slow::2113} to 4
+		set {item.lore::2113} to "A pair of boots cut out of sackcloth, worn as penance."
+		set {item.item::2113} to 1 of {saveitem.Sackcloth_Boots}
+		set {id.Sackcloth Boots} to 2113
+
+		#chest
+		set {item.type::2114} to 2
+		set {item.name::2114} to "&6Suit Jacket"
+		set {item.phys::2114} to 0
+		set {item.fire::2114} to 0
+		set {item.wate::2114} to 0
+		set {item.eart::2114} to 0
+		set {item.wind::2114} to 8
+		set {item.pois::2114} to 8
+		set {item.blee::2114} to 5
+		set {item.slow::2114} to 0
+		set {item.lore::2114} to "A sleek black jacket that provides little defense, but is very stylish. Steals a small amount of anima from attacked enemies."
+		set {item.item::2114} to 1 of {saveitem.Suit_Jacket}
+		set {id.Suit Jacket} to 2114
+
+		#leg
+		set {item.type::2115} to 2
+		set {item.name::2115} to "&6Dress Pants"
+		set {item.phys::2115} to 0
+		set {item.fire::2115} to 0
+		set {item.wate::2115} to 0
+		set {item.eart::2115} to 0
+		set {item.wind::2115} to 7
+		set {item.pois::2115} to 10
+		set {item.blee::2115} to 6
+		set {item.slow::2115} to 0
+		set {item.lore::2115} to "A sleek black pair of pants that provide little defense, but are very stylish. Steals a small amount of anima from attacked enemies."
+		set {item.item::2115} to 1 of {saveitem.Dress_Pants}
+		set {id.Dress Pants} to 2115
+
+		#boot
+		set {item.type::2116} to 2
+		set {item.name::2116} to "&6Dress Shoes"
+		set {item.phys::2116} to 0
+		set {item.fire::2116} to 0
+		set {item.wate::2116} to 0
+		set {item.eart::2116} to 0
+		set {item.wind::2116} to 6
+		set {item.pois::2116} to 12
+		set {item.blee::2116} to 8
+		set {item.slow::2116} to 0
+		set {item.lore::2116} to "A sleek black pair of shoes that provide little defense, but are very stylish. Steals a small amount of anima from attacked enemies."
+		set {item.item::2116} to 1 of {saveitem.Dress_Shoes}
+		set {id.Dress Shoes} to 2116
+
+		#helm
+		set {item.type::2117} to 2
+		set {item.name::2117} to "&6Adventurer Hood"
+		set {item.phys::2117} to 2
+		set {item.fire::2117} to 0
+		set {item.wate::2117} to 1
+		set {item.eart::2117} to 4
+		set {item.wind::2117} to 4
+		set {item.pois::2117} to 9
+		set {item.blee::2117} to 14
+		set {item.slow::2117} to 3
+		set {item.lore::2117} to "A well worn explorer's hood. Its unusual style indicates its origin from a far away land. Slightly boosts maximum stamina."
+		set {item.item::2117} to 1 of {saveitem.Adventurer_Hood}
+		set {id.Adventurer Hood} to 2117
+
+		#chest
+		set {item.type::2118} to 2
+		set {item.name::2118} to "&6Adventurer Cloak"
+		set {item.phys::2118} to 2
+		set {item.fire::2118} to 0
+		set {item.wate::2118} to 1
+		set {item.eart::2118} to 2
+		set {item.wind::2118} to 3
+		set {item.pois::2118} to 5
+		set {item.blee::2118} to 13
+		set {item.slow::2118} to 2
+		set {item.lore::2118} to "A well worn explorer's cloak. Its unusual style indicates its origin from a far away land. Slightly boosts maximum stamina."
+		set {item.item::2118} to 1 of {saveitem.Adventurer_Cloak}
+		set {id.Adventurer Cloak} to 2118
+
+		#leg
+		set {item.type::2119} to 2
+		set {item.name::2119} to "&6Adventurer Pants"
+		set {item.phys::2119} to 1
+		set {item.fire::2119} to 0
+		set {item.wate::2119} to 1
+		set {item.eart::2119} to 3
+		set {item.wind::2119} to 3
+		set {item.pois::2119} to 6
+		set {item.blee::2119} to 12
+		set {item.slow::2119} to 2
+		set {item.lore::2119} to "A well worn explorer's pair of pants. Their unusual style indicates their origin from a far away land. Slightly boosts maximum stamina."
+		set {item.item::2119} to 1 of {saveitem.Adventurer_Pants}
+		set {id.Adventurer Pants} to 2119
+
+		#boot
+		set {item.type::2120} to 2
+		set {item.name::2120} to "&6Adventurer Boots"
+		set {item.phys::2120} to 0
+		set {item.fire::2120} to 0
+		set {item.wate::2120} to 1
+		set {item.eart::2120} to 4
+		set {item.wind::2120} to 3
+		set {item.pois::2120} to 6
+		set {item.blee::2120} to 10
+		set {item.slow::2120} to 4
+		set {item.lore::2120} to "A well worn explorer's pair of boots. Their unusual style indicates their origin from a far away land. Slightly boosts maximum stamina."
+		set {item.item::2120} to 1 of {saveitem.Adventurer_Boots}
+		set {id.Adventurer Boots} to 2120
+		
+		#helm
+		set {item.type::2121} to 2
+		set {item.name::2121} to "&6Chieftain's Mask"
+		set {item.phys::2121} to 2
+		set {item.fire::2121} to 1
+		set {item.wate::2121} to 4
+		set {item.eart::2121} to 5
+		set {item.wind::2121} to 0
+		set {item.pois::2121} to 9
+		set {item.blee::2121} to 7
+		set {item.slow::2121} to 4
+		set {item.lore::2121} to "The mask worn by the progenitor of the modern pygmy race."
+		set {item.item::2121} to 1 of {saveitem.Chieftain's Mask}
+		set {id.Chieftain's Mask} to 2121
+
+		#chest
+		set {item.type::2122} to 2
+		set {item.name::2122} to "&6Chieftain's Tunic"
+		set {item.phys::2122} to 3
+		set {item.fire::2122} to 1
+		set {item.wate::2122} to 3
+		set {item.eart::2122} to 5
+		set {item.wind::2122} to 0
+		set {item.pois::2122} to 10
+		set {item.blee::2122} to 6
+		set {item.slow::2122} to 4
+		set {item.lore::2122} to "A tunic that seems to bear some significance to the mindless pygmies."
+		set {item.item::2122} to 1 of {saveitem.Chieftain's Tunic}
+		set {id.Chieftain's Tunic} to 2122
+
+		#leg
+		set {item.type::2123} to 2
+		set {item.name::2123} to "&6Chieftain's Leggings"
+		set {item.phys::2123} to 3
+		set {item.fire::2123} to 1
+		set {item.wate::2123} to 4
+		set {item.eart::2123} to 4
+		set {item.wind::2123} to 0
+		set {item.pois::2123} to 9
+		set {item.blee::2123} to 6
+		set {item.slow::2123} to 5
+		set {item.lore::2123} to "A pair of leggings that seems to bear some significance to the mindless pygmies."
+		set {item.item::2123} to 1 of {saveitem.Chieftain's Leggings}
+		set {id.Chieftain's Leggings} to 2123
+
+		#boot
+		set {item.type::2124} to 2
+		set {item.name::2124} to "&6Chieftain's Boots"
+		set {item.phys::2124} to 2
+		set {item.fire::2124} to 1
+		set {item.wate::2124} to 3
+		set {item.eart::2124} to 6
+		set {item.wind::2124} to 0
+		set {item.pois::2124} to 10
+		set {item.blee::2124} to 8
+		set {item.slow::2124} to 2
+		set {item.lore::2124} to "A pair of boots that seems to bear some significance to the mindless pygmies."
+		set {item.item::2124} to 1 of {saveitem.Chieftain's Boots}
+		set {id.Chieftain's Boots} to 2124
+		
+		#helm
+		set {item.type::2125} to 2
+		set {item.name::2125} to "&6Scrap Helmet"
+		set {item.phys::2125} to 4
+		set {item.fire::2125} to 0
+		set {item.wate::2125} to 0
+		set {item.eart::2125} to 14
+		set {item.wind::2125} to -8
+		set {item.pois::2125} to 3
+		set {item.blee::2125} to 5
+		set {item.slow::2125} to 11
+		set {item.lore::2125} to "A long deactivated golem's broken head that can be worn like a helmet."
+		set {item.item::2125} to 1 of {saveitem.Scrap Helmet}
+		set {id.Scrap Helmet} to 2125
+		
+		#chest
+		set {item.type::2126} to 2
+		set {item.name::2126} to "&6Scrap Chestplate"
+		set {item.phys::2126} to 6
+		set {item.fire::2126} to 0
+		set {item.wate::2126} to 0
+		set {item.eart::2126} to 13
+		set {item.wind::2126} to -9
+		set {item.pois::2126} to 2
+		set {item.blee::2126} to 4
+		set {item.slow::2126} to 13
+		set {item.lore::2126} to "A long deactivated golem's broken torso that can be worn like a chestplate."
+		set {item.item::2126} to 1 of {saveitem.Scrap Chestplate}
+		set {id.Scrap Chestplate} to 2126
+		
+		#leg
+		set {item.type::2127} to 2
+		set {item.name::2127} to "&6Scrap Leggings"
+		set {item.phys::2127} to 5
+		set {item.fire::2127} to 0
+		set {item.wate::2127} to 0
+		set {item.eart::2127} to 12
+		set {item.wind::2127} to -7
+		set {item.pois::2127} to 3
+		set {item.blee::2127} to 4
+		set {item.slow::2127} to 12
+		set {item.lore::2127} to "A long deactivated golem's pair of broken legs that can be worn like leggings."
+		set {item.item::2127} to 1 of {saveitem.Scrap Leggings}
+		set {id.Scrap Leggings} to 2127
+		
+		#boot
+		set {item.type::2128} to 2
+		set {item.name::2128} to "&6Scrap Boots"
+		set {item.phys::2128} to 3
+		set {item.fire::2128} to 0
+		set {item.wate::2128} to 0
+		set {item.eart::2128} to 12
+		set {item.wind::2128} to -5
+		set {item.pois::2128} to 4
+		set {item.blee::2128} to 5
+		set {item.slow::2128} to 10
+		set {item.lore::2128} to "A long deactivated golem's pair of broken feet that can be worn like boots."
+		set {item.item::2128} to 1 of {saveitem.Scrap Boots}
+		set {id.Scrap Boots} to 2128
+		
+		#helm
+		set {item.type::2129} to 2
+		set {item.name::2129} to "&6Hollow King's Crown"
+		set {item.phys::2129} to 1
+		set {item.fire::2129} to 0
+		set {item.wate::2129} to 0
+		set {item.eart::2129} to 0
+		set {item.wind::2129} to 0
+		set {item.pois::2129} to 0
+		set {item.blee::2129} to 20
+		set {item.slow::2129} to 0
+		set {item.lore::2129} to "The crown of the last king of Alendale."
+		set {item.item::2129} to 1 of {saveitem.Hollow King's Crown}
+		set {id.Hollow King's Crown} to 2129
+		
+		#helm
+		set {item.type::2130} to 2
+		set {item.name::2130} to "&6Demon Hood"
+		set {item.phys::2130} to 4
+		set {item.fire::2130} to 0
+		set {item.wate::2130} to 3
+		set {item.eart::2130} to 1
+		set {item.wind::2130} to 3
+		set {item.pois::2130} to 5
+		set {item.blee::2130} to 8
+		set {item.slow::2130} to 7
+		set {item.lore::2130} to "The hood worn by the demon who sold his humanity for power. Extends the length of Chameleon if worn while casted."
+		set {item.item::2130} to 1 of {saveitem.Demon Hood}
+		set {id.Demon Hood} to 2130
+		
+		#helm
+		set {item.type::2131} to 2
+		set {item.name::2131} to "&6Sentinel Helmet"
+		set {item.phys::2131} to 6
+		set {item.fire::2131} to 0
+		set {item.wate::2131} to 0
+		set {item.eart::2131} to 0
+		set {item.wind::2131} to -6
+		set {item.pois::2131} to 7
+		set {item.blee::2131} to 7
+		set {item.slow::2131} to 7
+		set {item.lore::2131} to "A helmet of an ancient warrior of Alendale. Depicted on the statues around Leere."
+		set {item.item::2131} to 1 of observer
+		set {id.Sentinel Helmet} to 2131
+		
+		#helm
+		set {item.type::2132} to 2
+		set {item.name::2132} to "&6Champion Helmet"
+		set {item.phys::2132} to 4
+		set {item.fire::2132} to 2
+		set {item.wate::2132} to 2
+		set {item.eart::2132} to 2
+		set {item.wind::2132} to 2
+		set {item.pois::2132} to 4
+		set {item.blee::2132} to 2
+		set {item.slow::2132} to 4
+		set {item.lore::2132} to "A helmet worn by the current champion of the colosseum. Reduces the MP cost of skills."
+		set {item.item::2132} to 1 of {saveitem.Champion Helm}
+		set {id.Champion Helmet} to 2132
+		
+		#chest
+		set {item.type::2133} to 2
+		set {item.name::2133} to "&6Golem Plate"
+		set {item.phys::2133} to 15
+		set {item.fire::2133} to 0
+		set {item.wate::2133} to 0
+		set {item.eart::2133} to 30
+		set {item.wind::2133} to -30
+		set {item.pois::2133} to 10
+		set {item.blee::2133} to 10
+		set {item.slow::2133} to 10
+		set {item.lore::2133} to "An incredibly effective chunk of a golem that can be worn as a chestpiece. Its great weight makes sprinting impossible."
+		set {item.item::2133} to iron chestplate
+		set {id.Golem Plate} to 2133
+		
+		#helm
+		set {item.type::2134} to 2
+		set {item.name::2134} to "&6Kotoborro Soldier Helm"
+		set {item.phys::2134} to 4
+		set {item.fire::2134} to 0
+		set {item.wate::2134} to 4
+		set {item.eart::2134} to 0
+		set {item.wind::2134} to 0
+		set {item.pois::2134} to 15
+		set {item.blee::2134} to 3
+		set {item.slow::2134} to 5
+		set {item.lore::2134} to "A helmet worn by the pymgy warriors of the great Kotoborro civilization."
+		set {item.item::2134} to 1 of {saveitem.Pygmy Soldier Helm}
+		set {id.Kotoborro Soldier Helm} to 2134
+
+		#chest
+		set {item.type::2135} to 2
+		set {item.name::2135} to "&6Kotoborro Soldier Chestplate"
+		set {item.phys::2135} to 5
+		set {item.fire::2135} to 0
+		set {item.wate::2135} to 3
+		set {item.eart::2135} to 0
+		set {item.wind::2135} to 0
+		set {item.pois::2135} to 14
+		set {item.blee::2135} to 2
+		set {item.slow::2135} to 7
+		set {item.lore::2135} to "A chestpiece worn by the pymgy warriors of the great Kotoborro civilization."
+		set {item.item::2135} to 1 of {saveitem.Pygmy Soldier Chestplate}
+		set {id.Kotoborro Soldier Chestplate} to 2135
+
+		#leg
+		set {item.type::2136} to 2
+		set {item.name::2136} to "&6Kotoborro Soldier Leggings"
+		set {item.phys::2136} to 4
+		set {item.fire::2136} to 0
+		set {item.wate::2136} to 4
+		set {item.eart::2136} to 0
+		set {item.wind::2136} to 0
+		set {item.pois::2136} to 13
+		set {item.blee::2136} to 4
+		set {item.slow::2136} to 6
+		set {item.lore::2136} to "A pair of leggings worn by the pymgy warriors of the great Kotoborro civilization."
+		set {item.item::2136} to 1 of {saveitem.Pygmy Soldier Leggings}
+		set {id.Kotoborro Soldier Leggings} to 2136
+
+		#boot
+		set {item.type::2137} to 2
+		set {item.name::2137} to "&6Kotoborro Soldier Boots"
+		set {item.phys::2137} to 3
+		set {item.fire::2137} to 0
+		set {item.wate::2137} to 5
+		set {item.eart::2137} to 0
+		set {item.wind::2137} to 0
+		set {item.pois::2137} to 16
+		set {item.blee::2137} to 2
+		set {item.slow::2137} to 5
+		set {item.lore::2137} to "A pair of boots worn by the pymgy warriors of the great Kotoborro civilization."
+		set {item.item::2137} to 1 of {saveitem.Pygmy Soldier Boots}
+		set {id.Kotoborro Soldier Boots} to 2137
+		
+		#helm
+		set {item.type::2138} to 2
+		set {item.name::2138} to "&6Hard Leather Helmet"
+		set {item.phys::2138} to 3
+		set {item.fire::2138} to 1
+		set {item.wate::2138} to 1
+		set {item.eart::2138} to 1
+		set {item.wind::2138} to 2
+		set {item.pois::2138} to 4
+		set {item.blee::2138} to 10
+		set {item.slow::2138} to 5
+		set {item.lore::2138} to "A leather helmet crafted out of tough minotaur skin."
+		set {item.item::2138} to 1 of {saveitem.Hard Leather Helmet}
+		set {id.Hard Leather Helmet} to 2138
+
+		#chest
+		set {item.type::2139} to 2
+		set {item.name::2139} to "&6Hard Leather Chestplate"
+		set {item.phys::2139} to 4
+		set {item.fire::2139} to 1
+		set {item.wate::2139} to 1
+		set {item.eart::2139} to 1
+		set {item.wind::2139} to 1
+		set {item.pois::2139} to 5
+		set {item.blee::2139} to 9
+		set {item.slow::2139} to 5
+		set {item.lore::2139} to "A leather chestplate crafted out of tough minotaur skin."
+		set {item.item::2139} to 1 of {saveitem.Hard Leather Chestplate}
+		set {id.Hard Leather Chestplate} to 2139
+
+		#leg
+		set {item.type::2140} to 2
+		set {item.name::2140} to "&6Hard Leather Leggings"
+		set {item.phys::2140} to 3
+		set {item.fire::2140} to 1
+		set {item.wate::2140} to 1
+		set {item.eart::2140} to 1
+		set {item.wind::2140} to 2
+		set {item.pois::2140} to 4
+		set {item.blee::2140} to 11
+		set {item.slow::2140} to 4
+		set {item.lore::2140} to "A pair of leather leggings crafted out of tough minotaur skin."
+		set {item.item::2140} to 1 of {saveitem.Hard Leather Leggings}
+		set {id.Hard Leather Leggings} to 2140
+
+		#boot
+		set {item.type::2141} to 2
+		set {item.name::2141} to "&6Hard Leather Boots"
+		set {item.phys::2141} to 2
+		set {item.fire::2141} to 1
+		set {item.wate::2141} to 1
+		set {item.eart::2141} to 1
+		set {item.wind::2141} to 3
+		set {item.pois::2141} to 5
+		set {item.blee::2141} to 8
+		set {item.slow::2141} to 6
+		set {item.lore::2141} to "A pair of leather boots crafted out of tough minotaur skin."
+		set {item.item::2141} to 1 of {saveitem.Hard Leather Boots}
+		set {id.Hard Leather Boots} to 2141
+		
+		#boot
+		set {item.type::2142} to 2
+		set {item.name::2142} to "&6Hermes Boots"
+		set {item.phys::2142} to 0
+		set {item.fire::2142} to 0
+		set {item.wate::2142} to 0
+		set {item.eart::2142} to 0
+		set {item.wind::2142} to 0
+		set {item.pois::2142} to 0
+		set {item.blee::2142} to 0
+		set {item.slow::2142} to 0
+		set {item.lore::2142} to "A magic pair of boots that reduces the stamina required to dash."
+		set {item.item::2142} to 1 of glowing gold boots
+		set {id.Hermes Boots} to 2142
+		
+		#helm
+		set {item.type::2143} to 2
+		set {item.name::2143} to "&6Symbol of Avarice"
+		set {item.phys::2143} to -5
+		set {item.fire::2143} to 0
+		set {item.wate::2143} to 0
+		set {item.eart::2143} to 0
+		set {item.wind::2143} to 0
+		set {item.pois::2143} to 2
+		set {item.blee::2143} to 3
+		set {item.slow::2143} to 2
+		set {item.lore::2143} to "An odd looking helmet that increases anima obtained while worn."
+		set {item.item::2143} to 1 of chest
+		set {id.Symbol of Avarice} to 2143
+		
+		#helm
+		set {item.type::2144} to 2
+		set {item.name::2144} to "&6Clay Helmet"
+		set {item.phys::2144} to 2
+		set {item.fire::2144} to 1
+		set {item.wate::2144} to 0
+		set {item.eart::2144} to 10
+		set {item.wind::2144} to 0
+		set {item.pois::2144} to 4
+		set {item.blee::2144} to 9
+		set {item.slow::2144} to 8
+		set {item.lore::2144} to "A helmet formed out of hardened clay."
+		set {item.item::2144} to 1 of {saveitem.Clay Helmet}
+		set {id.Clay Helmet} to 2144
+
+		#chest
+		set {item.type::2145} to 2
+		set {item.name::2145} to "&6Clay Chestplate"
+		set {item.phys::2145} to 3
+		set {item.fire::2145} to 1
+		set {item.wate::2145} to 0
+		set {item.eart::2145} to 9
+		set {item.wind::2145} to 0
+		set {item.pois::2145} to 10
+		set {item.blee::2145} to 7
+		set {item.slow::2145} to 4
+		set {item.lore::2145} to "A chestplate formed out of hardened clay."
+		set {item.item::2145} to 1 of {saveitem.Clay Chestplate}
+		set {id.Clay Chestplate} to 2145
+
+		#leg
+		set {item.type::2146} to 2
+		set {item.name::2146} to "&6Clay Leggings"
+		set {item.phys::2146} to 3
+		set {item.fire::2146} to 0
+		set {item.wate::2146} to 0
+		set {item.eart::2146} to 10
+		set {item.wind::2146} to 0
+		set {item.pois::2146} to 8
+		set {item.blee::2146} to 9
+		set {item.slow::2146} to 4
+		set {item.lore::2146} to "A pair of leggings formed out of hardened clay."
+		set {item.item::2146} to 1 of {saveitem.Clay Leggings}
+		set {id.Clay Leggings} to 2146
+
+		#boot
+		set {item.type::2147} to 2
+		set {item.name::2147} to "&6Clay Boots"
+		set {item.phys::2147} to 1
+		set {item.fire::2147} to 2
+		set {item.wate::2147} to 0
+		set {item.eart::2147} to 10
+		set {item.wind::2147} to 0
+		set {item.pois::2147} to 10
+		set {item.blee::2147} to 10
+		set {item.slow::2147} to 1
+		set {item.lore::2147} to "A pair of boots formed out of hardened clay."
+		set {item.item::2147} to 1 of {saveitem.Clay Boots}
+		set {id.Clay Boots} to 2147
+		
+		#helm
+		set {item.type::2148} to 2
+		set {item.name::2148} to "&6Shell Helmet"
+		set {item.phys::2148} to 3
+		set {item.fire::2148} to 0
+		set {item.wate::2148} to 5
+		set {item.eart::2148} to 0
+		set {item.wind::2148} to 5
+		set {item.pois::2148} to 8
+		set {item.blee::2148} to 4
+		set {item.slow::2148} to 10
+		set {item.lore::2148} to "A helmet crafted out of tough insect chitin."
+		set {item.item::2148} to 1 of {saveitem.Shell Helmet}
+		set {id.Shell Helmet} to 2148
+
+		#chest
+		set {item.type::2149} to 2
+		set {item.name::2149} to "&6Shell Chestplate"
+		set {item.phys::2149} to 4
+		set {item.fire::2149} to 0
+		set {item.wate::2149} to 4
+		set {item.eart::2149} to 5
+		set {item.wind::2149} to 0
+		set {item.pois::2149} to 6
+		set {item.blee::2149} to 5
+		set {item.slow::2149} to 11
+		set {item.lore::2149} to "A chestplate crafted out of tough insect chitin."
+		set {item.item::2149} to 1 of {saveitem.Shell Chestplate}
+		set {id.Shell Chestplate} to 2149
+
+		#leg
+		set {item.type::2150} to 2
+		set {item.name::2150} to "&6Shell Leggings"
+		set {item.phys::2150} to 3
+		set {item.fire::2150} to 0
+		set {item.wate::2150} to 6
+		set {item.eart::2150} to 4
+		set {item.wind::2150} to 0
+		set {item.pois::2150} to 7
+		set {item.blee::2150} to 5
+		set {item.slow::2150} to 10
+		set {item.lore::2150} to "A pair of leggings crafted out of tough insect chitin."
+		set {item.item::2150} to 1 of {saveitem.Shell Leggings}
+		set {id.Shell Leggings} to 2150
+
+		#boot
+		set {item.type::2151} to 2
+		set {item.name::2151} to "&6Shell Boots"
+		set {item.phys::2151} to 2
+		set {item.fire::2151} to 0
+		set {item.wate::2151} to 6
+		set {item.eart::2151} to 5
+		set {item.wind::2151} to 0
+		set {item.pois::2151} to 8
+		set {item.blee::2151} to 3
+		set {item.slow::2151} to 11
+		set {item.lore::2151} to "A pair of boots crafted out of tough insect chitin."
+		set {item.item::2151} to 1 of {saveitem.Shell Boots}
+		set {id.Shell Boots} to 2151
+		
+		#helm
+		set {item.type::2152} to 2
+		set {item.name::2152} to "&6Bloodstained Kotoborro Helm"
+		set {item.phys::2152} to 2
+		set {item.fire::2152} to 1
+		set {item.wate::2152} to 3
+		set {item.eart::2152} to 0
+		set {item.wind::2152} to 0
+		set {item.pois::2152} to 7
+		set {item.blee::2152} to 11
+		set {item.slow::2152} to 5
+		set {item.lore::2152} to "A bloodstained helmet that seems to have belonged to a fallen pygmy. Slightly increases bleed damage inflicted."
+		set {item.item::2152} to 1 of {saveitem.Bloodstained Kotoborro Helm}
+		set {id.Bloodstained Kotoborro Helm} to 2152
+
+		#chest
+		set {item.type::2153} to 2
+		set {item.name::2153} to "&6Bloodstained Kotoborro Chestplate"
+		set {item.phys::2153} to 3
+		set {item.fire::2153} to 1
+		set {item.wate::2153} to 2
+		set {item.eart::2153} to 0
+		set {item.wind::2153} to 0
+		set {item.pois::2153} to 6
+		set {item.blee::2153} to 10
+		set {item.slow::2153} to 7
+		set {item.lore::2153} to "A bloodstained chestplate that seems to have belonged to a fallen pygmy. Slightly increases bleed damage inflicted."
+		set {item.item::2153} to 1 of {saveitem.Bloodstained Kotoborro Chestplate}
+		set {id.Bloodstained Kotoborro Chestplate} to 2153
+
+		#leg
+		set {item.type::2154} to 2
+		set {item.name::2154} to "&6Bloodstained Kotoborro Leggings"
+		set {item.phys::2154} to 2
+		set {item.fire::2154} to 1
+		set {item.wate::2154} to 3
+		set {item.eart::2154} to 0
+		set {item.wind::2154} to 0
+		set {item.pois::2154} to 5
+		set {item.blee::2154} to 12
+		set {item.slow::2154} to 6
+		set {item.lore::2154} to "A bloodstained pair of leggings that seems to have belonged to a fallen pygmy. Slightly increases bleed damage inflicted."
+		set {item.item::2154} to 1 of {saveitem.Bloodstained Kotoborro Leggings}
+		set {id.Bloodstained Kotoborro Leggings} to 2154
+
+		#boot
+		set {item.type::2155} to 2
+		set {item.name::2155} to "&6Bloodstained Kotoborro Boots"
+		set {item.phys::2155} to 1
+		set {item.fire::2155} to 1
+		set {item.wate::2155} to 4
+		set {item.eart::2155} to 0
+		set {item.wind::2155} to 0
+		set {item.pois::2155} to 8
+		set {item.blee::2155} to 10
+		set {item.slow::2155} to 5
+		set {item.lore::2155} to "A bloodstained pair of boots that seems to have belonged to a fallen pygmy. Slightly increases bleed damage inflicted."
+		set {item.item::2155} to 1 of {saveitem.Bloodstained Kotoborro Boots}
+		set {id.Bloodstained Kotoborro Boots} to 2155
+		
+		#helm
+		set {item.type::2156} to 2
+		set {item.name::2156} to "&6Priestess Hood"
+		set {item.phys::2156} to 0
+		set {item.fire::2156} to 4
+		set {item.wate::2156} to 4
+		set {item.eart::2156} to 4
+		set {item.wind::2156} to 4
+		set {item.pois::2156} to 3
+		set {item.blee::2156} to 3
+		set {item.slow::2156} to 3
+		set {item.lore::2156} to "A hood worn by acolytes of Darkwater. Restores MP upon killing enemies."
+		set {item.item::2156} to 1 of {saveitem.Priestess Hood}
+		set {id.Priestess Hood} to 2156
+
+		#chest
+		set {item.type::2157} to 2
+		set {item.name::2157} to "&6Priestess Cloak"
+		set {item.phys::2157} to 0
+		set {item.fire::2157} to 4
+		set {item.wate::2157} to 4
+		set {item.eart::2157} to 4
+		set {item.wind::2157} to 4
+		set {item.pois::2157} to 3
+		set {item.blee::2157} to 3
+		set {item.slow::2157} to 3
+		set {item.lore::2157} to "A cloak worn by acolytes of Darkwater. Restores MP upon killing enemies."
+		set {item.item::2157} to 1 of {saveitem.Priestess Cloak}
+		set {id.Priestess Cloak} to 2157
+
+		#leg
+		set {item.type::2158} to 2
+		set {item.name::2158} to "&6Priestess Skirt"
+		set {item.phys::2158} to 0
+		set {item.fire::2158} to 4
+		set {item.wate::2158} to 4
+		set {item.eart::2158} to 4
+		set {item.wind::2158} to 4
+		set {item.pois::2158} to 3
+		set {item.blee::2158} to 3
+		set {item.slow::2158} to 3
+		set {item.lore::2158} to "A skirt worn by acolytes of Darkwater. Restores MP upon killing enemies."
+		set {item.item::2158} to 1 of {saveitem.Priestess Skirt}
+		set {id.Priestess Skirt} to 2158
+
+		#boot
+		set {item.type::2159} to 2
+		set {item.name::2159} to "&6Priestess Shoes"
+		set {item.phys::2159} to 0
+		set {item.fire::2159} to 4
+		set {item.wate::2159} to 4
+		set {item.eart::2159} to 4
+		set {item.wind::2159} to 4
+		set {item.pois::2159} to 3
+		set {item.blee::2159} to 3
+		set {item.slow::2159} to 3
+		set {item.lore::2159} to "A pair of shoes worn by acolytes of Darkwater. Restores MP upon killing enemies."
+		set {item.item::2159} to 1 of {saveitem.Priestess Shoes}
+		set {id.Priestess Shoes} to 2159
+		
+		#helm
+		set {item.type::2160} to 2
+		set {item.name::2160} to "&6Templar Helmet"
+		set {item.phys::2160} to 3
+		set {item.fire::2160} to 0
+		set {item.wate::2160} to 3
+		set {item.eart::2160} to 3
+		set {item.wind::2160} to 3
+		set {item.pois::2160} to 9
+		set {item.blee::2160} to 2
+		set {item.slow::2160} to 14
+		set {item.lore::2160} to "A helmet worn by the Templars that were sworn to protect the priestesses of Darkwater."
+		set {item.item::2160} to 1 of {saveitem.Templar Helmet}
+		set {id.Templar Helmet} to 2160
+
+		#chest
+		set {item.type::2161} to 2
+		set {item.name::2161} to "&6Templar Chestplate"
+		set {item.phys::2161} to 4
+		set {item.fire::2161} to 0
+		set {item.wate::2161} to 3
+		set {item.eart::2161} to 3
+		set {item.wind::2161} to 2
+		set {item.pois::2161} to 8
+		set {item.blee::2161} to 3
+		set {item.slow::2161} to 14
+		set {item.lore::2161} to "A chestplate worn by the Templars that were sworn to protect the priestesses of Darkwater."
+		set {item.item::2161} to 1 of glowing {saveitem.Templar Chestplate}
+		set {id.Templar Chestplate} to 2161
+
+		#leg
+		set {item.type::2162} to 2
+		set {item.name::2162} to "&6Templar Leggings"
+		set {item.phys::2162} to 4
+		set {item.fire::2162} to 0
+		set {item.wate::2162} to 3
+		set {item.eart::2162} to 2
+		set {item.wind::2162} to 3
+		set {item.pois::2162} to 10
+		set {item.blee::2162} to 2
+		set {item.slow::2162} to 13
+		set {item.lore::2162} to "A pair of leggings worn by the Templars that were sworn to protect the priestesses of Darkwater."
+		set {item.item::2162} to 1 of glowing {saveitem.Templar Leggings}
+		set {id.Templar Leggings} to 2162
+
+		#boot
+		set {item.type::2163} to 2
+		set {item.name::2163} to "&6Templar Boots"
+		set {item.phys::2163} to 3
+		set {item.fire::2163} to 0
+		set {item.wate::2163} to 4
+		set {item.eart::2163} to 3
+		set {item.wind::2163} to 2
+		set {item.pois::2163} to 8
+		set {item.blee::2163} to 2
+		set {item.slow::2163} to 16
+		set {item.lore::2163} to "A pair of boots worn by the Templars that were sworn to protect the priestesses of Darkwater."
+		set {item.item::2163} to glowing diamond boots
+		set {id.Templar Boots} to 2163
+		
+		#helm
+		set {item.type::2164} to 2
+		set {item.name::2164} to "&6Sniper Helmet"
+		set {item.phys::2164} to 2
+		set {item.fire::2164} to 2
+		set {item.wate::2164} to 2
+		set {item.eart::2164} to 2
+		set {item.wind::2164} to 2
+		set {item.pois::2164} to 5
+		set {item.blee::2164} to 7
+		set {item.slow::2164} to 4
+		set {item.lore::2164} to "The helmet of one of the ranged assassins of Illusion. Slightly increases the range of Anima Shot."
+		set {item.item::2164} to 1 of {saveitem.Sniper Helmet}
+		set {id.Sniper Helmet} to 2164
+
+		#chest
+		set {item.type::2165} to 2
+		set {item.name::2165} to "&6Sniper Chestplate"
+		set {item.phys::2165} to 2
+		set {item.fire::2165} to 2
+		set {item.wate::2165} to 2
+		set {item.eart::2165} to 2
+		set {item.wind::2165} to 2
+		set {item.pois::2165} to 4
+		set {item.blee::2165} to 7
+		set {item.slow::2165} to 5
+		set {item.lore::2165} to "The chestplate of one of the ranged assassins of Illusion. Slightly increases the range of Anima Shot."
+		set {item.item::2165} to 1 of {saveitem.Sniper Chestplate}
+		set {id.Sniper Chestplate} to 2165
+
+		#leg
+		set {item.type::2166} to 2
+		set {item.name::2166} to "&6Sniper Leggings"
+		set {item.phys::2166} to 2
+		set {item.fire::2166} to 2
+		set {item.wate::2166} to 2
+		set {item.eart::2166} to 2
+		set {item.wind::2166} to 2
+		set {item.pois::2166} to 5
+		set {item.blee::2166} to 6
+		set {item.slow::2166} to 5
+		set {item.lore::2166} to "The leggings of one of the ranged assassins of Illusion. Slightly increases the range of Anima Shot."
+		set {item.item::2166} to 1 of {saveitem.Sniper Leggings}
+		set {id.Sniper Leggings} to 2166
+
+		#boot
+		set {item.type::2167} to 2
+		set {item.name::2167} to "&6Sniper Boots"
+		set {item.phys::2167} to 2
+		set {item.fire::2167} to 2
+		set {item.wate::2167} to 2
+		set {item.eart::2167} to 2
+		set {item.wind::2167} to 2
+		set {item.pois::2167} to 4
+		set {item.blee::2167} to 8
+		set {item.slow::2167} to 4
+		set {item.lore::2167} to "The boots of one of the ranged assassins of Illusion. Slightly increases the range of Anima Shot."
+		set {item.item::2167} to 1 of {saveitem.Sniper Boots}
+		set {id.Sniper Boots} to 2167
+		
+		#helm
+		set {item.type::2168} to 2
+		set {item.name::2168} to "&6Straw Hat"
+		set {item.phys::2168} to 0
+		set {item.fire::2168} to 0
+		set {item.wate::2168} to 6
+		set {item.eart::2168} to 0
+		set {item.wind::2168} to 0
+		set {item.pois::2168} to 12
+		set {item.blee::2168} to 0
+		set {item.slow::2168} to 4
+		set {item.lore::2168} to "A simple hat of straw. Does not offer much protection. Increases items found when fishing."
+		set {item.item::2168} to 1 of {saveitem.Straw Hat}
+		set {id.Straw Hat} to 2168
+
+		#chest
+		set {item.type::2169} to 2
+		set {item.name::2169} to "&6Fishing Vest"
+		set {item.phys::2169} to 1
+		set {item.fire::2169} to 0
+		set {item.wate::2169} to 5
+		set {item.eart::2169} to 0
+		set {item.wind::2169} to 0
+		set {item.pois::2169} to 10
+		set {item.blee::2169} to 0
+		set {item.slow::2169} to 6
+		set {item.lore::2169} to "A vest worn by the men who cultivated the Darkwater River basin. Increases items found when fishing."
+		set {item.item::2169} to 1 of {saveitem.Fishing Vest}
+		set {id.Fishing Vest} to 2169
+
+		#leg
+		set {item.type::2170} to 2
+		set {item.name::2170} to "&6Fishing Pants"
+		set {item.phys::2170} to 0
+		set {item.fire::2170} to 0
+		set {item.wate::2170} to 6
+		set {item.eart::2170} to 0
+		set {item.wind::2170} to 0
+		set {item.pois::2170} to 11
+		set {item.blee::2170} to 0
+		set {item.slow::2170} to 5
+		set {item.lore::2170} to "A pair of pants worn by the men who cultivated the Darkwater River basin. Increases items found when fishing."
+		set {item.item::2170} to 1 of {saveitem.Fishing Pants}
+		set {id.Fishing Pants} to 2170
+
+		#boot
+		set {item.type::2171} to 2
+		set {item.name::2171} to "&6Fishing Boots"
+		set {item.phys::2171} to 0
+		set {item.fire::2171} to 0
+		set {item.wate::2171} to 7
+		set {item.eart::2171} to 0
+		set {item.wind::2171} to 0
+		set {item.pois::2171} to 6
+		set {item.blee::2171} to 0
+		set {item.slow::2171} to 2
+		set {item.lore::2171} to "A pair of boots worn by the men who cultivated the Darkwater River basin. Increases items found when fishing."
+		set {item.item::2171} to 1 of {saveitem.Fishing Boots}
+		set {id.Fishing Boots} to 2171
+
+		#helm
+		set {item.type::2172} to 2
+		set {item.name::2172} to "&6Demolition Hardhat"
+		set {item.phys::2172} to 2
+		set {item.fire::2172} to 1
+		set {item.wate::2172} to 0
+		set {item.eart::2172} to 3
+		set {item.wind::2172} to 1
+		set {item.pois::2172} to 3
+		set {item.blee::2172} to 2
+		set {item.slow::2172} to 8
+		set {item.lore::2172} to "A sturdy hat worn by demolition experts who mined in the deadly gulch. Slightly reduces damage taken from weapon skills."
+		set {item.item::2172} to 1 of {saveitem.Demolition Hardhat}
+		set {id.Demolition Hardhat} to 2172
+
+		#chest
+		set {item.type::2173} to 2
+		set {item.name::2173} to "&6Demolition Vest"
+		set {item.phys::2173} to 5
+		set {item.fire::2173} to 0
+		set {item.wate::2173} to 0
+		set {item.eart::2173} to 2
+		set {item.wind::2173} to 0
+		set {item.pois::2173} to 0
+		set {item.blee::2173} to 1
+		set {item.slow::2173} to 5
+		set {item.lore::2173} to "A sturdy vest worn by demolition experts who mined in the deadly gulch. Slightly reduces damage taken from weapon skills."
+		set {item.item::2173} to 1 of {saveitem.Demolition Vest}
+		set {id.Demolition Vest} to 2173
+
+		#leg
+		set {item.type::2174} to 2
+		set {item.name::2174} to "&6Demolition Trousers"
+		set {item.phys::2174} to 3
+		set {item.fire::2174} to 1
+		set {item.wate::2174} to 0
+		set {item.eart::2174} to 2
+		set {item.wind::2174} to 0
+		set {item.pois::2174} to 1
+		set {item.blee::2174} to 2
+		set {item.slow::2174} to 6
+		set {item.lore::2174} to "A sturdy pair of trousers worn by demolition experts who mined in the deadly gulch. Slightly reduces damage taken from weapon skills."
+		set {item.item::2174} to 1 of {saveitem.Demolition Trousers}
+		set {id.Demolition Trousers} to 2174
+
+		#boot
+		set {item.type::2175} to 2
+		set {item.name::2175} to "&6Demolition Boots"
+		set {item.phys::2175} to 0
+		set {item.fire::2175} to 2
+		set {item.wate::2175} to 1
+		set {item.eart::2175} to 4
+		set {item.wind::2175} to 1
+		set {item.pois::2175} to 3
+		set {item.blee::2175} to 2
+		set {item.slow::2175} to 7
+		set {item.lore::2175} to "A sturdy pair of boots worn by demolition experts who mined in the deadly gulch. Slightly reduces damage taken from weapon skills."
+		set {item.item::2175} to 1 of {saveitem.Demolition Boots}
+		set {id.Demolition Boots} to 2175
+		
+		#helm
+		set {item.type::2176} to 2
+		set {item.name::2176} to "&6Salvaged Helmet"
+		set {item.phys::2176} to 1
+		set {item.fire::2176} to 0
+		set {item.wate::2176} to 0
+		set {item.eart::2176} to 1
+		set {item.wind::2176} to 2
+		set {item.pois::2176} to 1
+		set {item.blee::2176} to 1
+		set {item.slow::2176} to 2
+		set {item.lore::2176} to "A worn out helmet found rusting in a body of water."
+		set {item.item::2176} to 1 of pumpkin
+		set {id.Salvaged Helmet} to 2176
+		
+		#chest
+		set {item.type::2177} to 2
+		set {item.name::2177} to "&6Salvaged Chestplate"
+		set {item.phys::2177} to 3
+		set {item.fire::2177} to 1
+		set {item.wate::2177} to 0
+		set {item.eart::2177} to 1
+		set {item.wind::2177} to 1
+		set {item.pois::2177} to 2
+		set {item.blee::2177} to 0
+		set {item.slow::2177} to 3
+		set {item.lore::2177} to "A worn out chestplate found rusting in a body of water."
+		set {item.item::2177} to 1 of {saveitem.Salvaged Chestplate}
+		set {id.Salvaged Chestplate} to 2177
+		
+		#leg
+		set {item.type::2178} to 2
+		set {item.name::2178} to "&6Salvaged Leggings"
+		set {item.phys::2178} to 2
+		set {item.fire::2178} to 0
+		set {item.wate::2178} to 1
+		set {item.eart::2178} to 0
+		set {item.wind::2178} to 2
+		set {item.pois::2178} to 0
+		set {item.blee::2178} to 0
+		set {item.slow::2178} to 4
+		set {item.lore::2178} to "A worn out pair of leggings found rusting in a body of water."
+		set {item.item::2178} to 1 of {saveitem.Salvaged Leggings}
+		set {id.Salvaged Leggings} to 2178
+		
+		#boot
+		set {item.type::2179} to 2
+		set {item.name::2179} to "&6Salvaged Boots"
+		set {item.phys::2179} to 0
+		set {item.fire::2179} to 1
+		set {item.wate::2179} to 0
+		set {item.eart::2179} to 2
+		set {item.wind::2179} to 4
+		set {item.pois::2179} to 2
+		set {item.blee::2179} to 2
+		set {item.slow::2179} to 2
+		set {item.lore::2179} to "A worn out pair of boots found rusting in a body of water."
+		set {item.item::2179} to 1 of diamond boots
+		set {id.Salvaged Boots} to 2179
+		
+		#helm
+		set {item.type::2180} to 2
+		set {item.name::2180} to "&6Emerald Helmet"
+		set {item.phys::2180} to 4
+		set {item.fire::2180} to -7
+		set {item.wate::2180} to 5
+		set {item.eart::2180} to 2
+		set {item.wind::2180} to 0
+		set {item.pois::2180} to 0
+		set {item.blee::2180} to 1
+		set {item.slow::2180} to 14
+		set {item.lore::2180} to "A helmet that belonged to a legendary oceanic creature."
+		set {item.item::2180} to 1 of glowing {saveitem.Emerald Helmet}
+		set {id.Emerald Helmet} to 2180
+		
+		#chest
+		set {item.type::2181} to 2
+		set {item.name::2181} to "&6Emerald Chestplate"
+		set {item.phys::2181} to 7
+		set {item.fire::2181} to -7
+		set {item.wate::2181} to 4
+		set {item.eart::2181} to 0
+		set {item.wind::2181} to 0
+		set {item.pois::2181} to 0
+		set {item.blee::2181} to 2
+		set {item.slow::2181} to 13
+		set {item.lore::2181} to "A chestplate that belonged to a legendary oceanic creature."
+		set {item.item::2181} to 1 of glowing {saveitem.Emerald Chestplate}
+		set {id.Emerald Chestplate} to 2181
+		
+		#leg
+		set {item.type::2182} to 2
+		set {item.name::2182} to "&6Emerald Leggings"
+		set {item.phys::2182} to 6
+		set {item.fire::2182} to -7
+		set {item.wate::2182} to 4
+		set {item.eart::2182} to 1
+		set {item.wind::2182} to 0
+		set {item.pois::2182} to 2
+		set {item.blee::2182} to 3
+		set {item.slow::2182} to 10
+		set {item.lore::2182} to "A pair of leggings that belonged to a legendary oceanic creature."
+		set {item.item::2182} to 1 of glowing {saveitem.Emerald Leggings}
+		set {id.Emerald Leggings} to 2182
+		
+		#boot
+		set {item.type::2183} to 2
+		set {item.name::2183} to "&6Emerald Boots"
+		set {item.phys::2183} to 3
+		set {item.fire::2183} to -6
+		set {item.wate::2183} to 6
+		set {item.eart::2183} to 1
+		set {item.wind::2183} to 0
+		set {item.pois::2183} to 5
+		set {item.blee::2183} to 4
+		set {item.slow::2183} to 6
+		set {item.lore::2183} to "A pair of boots that belonged to a legendary oceanic creature."
+		set {item.item::2183} to 1 of glowing {saveitem.Emerald Boots}
+		set {id.Emerald Boots} to 2183
+		
+		#chest
+		set {item.type::2184} to 2
+		set {item.name::2184} to "&6Life Vest"
+		set {item.phys::2184} to 0
+		set {item.fire::2184} to 0
+		set {item.wate::2184} to 16
+		set {item.eart::2184} to 0
+		set {item.wind::2184} to 0
+		set {item.pois::2184} to 0
+		set {item.blee::2184} to 0
+		set {item.slow::2184} to 0
+		set {item.lore::2184} to "A life vest intended to protect the wearer from water."
+		set {item.item::2184} to 1 of {saveitem.Life_Vest}
+		set {id.Life Vest} to 2184
+		
+		#helm
+		set {item.type::2185} to 2
+		set {item.name::2185} to "&6Doll Visor"
+		set {item.phys::2185} to 1
+		set {item.fire::2185} to 6
+		set {item.wate::2185} to 0
+		set {item.eart::2185} to 2
+		set {item.wind::2185} to 5
+		set {item.pois::2185} to 10
+		set {item.blee::2185} to 2
+		set {item.slow::2185} to 12
+		set {item.lore::2185} to "A visor worn by the animatronics created as the constructs of an ancient civilization."
+		set {item.item::2185} to 1 of {saveitem.Doll Visor}
+		set {id.Doll Visor} to 2185
+
+		#chest
+		set {item.type::2186} to 2
+		set {item.name::2186} to "&6Doll Suit"
+		set {item.phys::2186} to 3
+		set {item.fire::2186} to 4
+		set {item.wate::2186} to 0
+		set {item.eart::2186} to 1
+		set {item.wind::2186} to 6
+		set {item.pois::2186} to 8
+		set {item.blee::2186} to 3
+		set {item.slow::2186} to 14
+		set {item.lore::2186} to "A suit worn by the animatronics created as the constructs of an ancient civilization."
+		set {item.item::2186} to 1 of {saveitem.Doll Suit}
+		set {id.Doll Suit} to 2186
+
+		#leg
+		set {item.type::2187} to 2
+		set {item.name::2187} to "&6Doll Plates"
+		set {item.phys::2187} to 2
+		set {item.fire::2187} to 6
+		set {item.wate::2187} to 0
+		set {item.eart::2187} to 2
+		set {item.wind::2187} to 4
+		set {item.pois::2187} to 13
+		set {item.blee::2187} to 2
+		set {item.slow::2187} to 9
+		set {item.lore::2187} to "A set of plates worn by the animatronics created as the constructs of an ancient civilization."
+		set {item.item::2187} to 1 of {saveitem.Doll Plates}
+		set {id.Doll Plates} to 2187
+
+		#boot
+		set {item.type::2188} to 2
+		set {item.name::2188} to "&6Doll Boots"
+		set {item.phys::2188} to 1
+		set {item.fire::2188} to 6
+		set {item.wate::2188} to 0
+		set {item.eart::2188} to 1
+		set {item.wind::2188} to 6
+		set {item.pois::2188} to 8
+		set {item.blee::2188} to 0
+		set {item.slow::2188} to 16
+		set {item.lore::2188} to "A pair of boots worn by the animatronics created as the constructs of an ancient civilization."
+		set {item.item::2188} to 1 of {saveitem.Doll Boots}
+		set {id.Doll Boots} to 2188
+
+		#helm
+		set {item.type::2189} to 2
+		set {item.name::2189} to "&6Magic Hood"
+		set {item.phys::2189} to 1
+		set {item.fire::2189} to 3
+		set {item.wate::2189} to 4
+		set {item.eart::2189} to 2
+		set {item.wind::2189} to 2
+		set {item.pois::2189} to 9
+		set {item.blee::2189} to 10
+		set {item.slow::2189} to 6
+		set {item.lore::2189} to "A hood worn by an abyssal mage of yore."
+		set {item.item::2189} to 1 of {saveitem.Magic Hood}
+		set {id.Magic Hood} to 2189
+
+		#chest
+		set {item.type::2190} to 2
+		set {item.name::2190} to "&6Magic Dress"
+		set {item.phys::2190} to 1
+		set {item.fire::2190} to 3
+		set {item.wate::2190} to 4
+		set {item.eart::2190} to 3
+		set {item.wind::2190} to 1
+		set {item.pois::2190} to 6
+		set {item.blee::2190} to 14
+		set {item.slow::2190} to 5
+		set {item.lore::2190} to "A dress worn by an abyssal mage of yore."
+		set {item.item::2190} to 1 of {saveitem.Magic Dress}
+		set {id.Magic Dress} to 2190
+
+		#leg
+		set {item.type::2191} to 2
+		set {item.name::2191} to "&6Magic Stockings"
+		set {item.phys::2191} to 1
+		set {item.fire::2191} to 3
+		set {item.wate::2191} to 3
+		set {item.eart::2191} to 3
+		set {item.wind::2191} to 2
+		set {item.pois::2191} to 7
+		set {item.blee::2191} to 10
+		set {item.slow::2191} to 8
+		set {item.lore::2191} to "A pair of stockings worn by an abyssal mage of yore."
+		set {item.item::2191} to 1 of {saveitem.Magic Stockings}
+		set {id.Magic Stockings} to 2191
+
+		#boot
+		set {item.type::2192} to 2
+		set {item.name::2192} to "&6Magic Moccasins"
+		set {item.phys::2192} to 0
+		set {item.fire::2192} to 4
+		set {item.wate::2192} to 5
+		set {item.eart::2192} to 2
+		set {item.wind::2192} to 1
+		set {item.pois::2192} to 6
+		set {item.blee::2192} to 9
+		set {item.slow::2192} to 10
+		set {item.lore::2192} to "A pair of moccasins worn by an abyssal mage of yore."
+		set {item.item::2192} to 1 of {saveitem.Magic Moccasins}
+		set {id.Magic Moccasins} to 2192
+
+		#helm
+		set {item.type::2193} to 2
+		set {item.name::2193} to "&6Warlock Hood"
+		set {item.phys::2193} to 3
+		set {item.fire::2193} to 2
+		set {item.wate::2193} to 0
+		set {item.eart::2193} to 8
+		set {item.wind::2193} to 0
+		set {item.pois::2193} to 3
+		set {item.blee::2193} to 4
+		set {item.slow::2193} to 13
+		set {item.lore::2193} to "A hood belonging to a cultist who sought to bring the powers of the abyss to the land of Arcadia."
+		set {item.item::2193} to 1 of {saveitem.Warlock Hood}
+		set {id.Warlock Hood} to 2193
+
+		#chest
+		set {item.type::2194} to 2
+		set {item.name::2194} to "&6Warlock Robes"
+		set {item.phys::2194} to 5
+		set {item.fire::2194} to 2
+		set {item.wate::2194} to 0
+		set {item.eart::2194} to 6
+		set {item.wind::2194} to 0
+		set {item.pois::2194} to 3
+		set {item.blee::2194} to 7
+		set {item.slow::2194} to 10
+		set {item.lore::2194} to "A set of robes belonging to a cultist who sought to bring the powers of the abyss to the land of Arcadia."
+		set {item.item::2194} to 1 of {saveitem.Warlock Robes}
+		set {id.Warlock Robes} to 2194
+
+		#leg
+		set {item.type::2195} to 2
+		set {item.name::2195} to "&6Warlock Leggings"
+		set {item.phys::2195} to 3
+		set {item.fire::2195} to 3
+		set {item.wate::2195} to 0
+		set {item.eart::2195} to 7
+		set {item.wind::2195} to 0
+		set {item.pois::2195} to 2
+		set {item.blee::2195} to 5
+		set {item.slow::2195} to 13
+		set {item.lore::2195} to "A pair of leggings belonging to a cultist who sought to bring the powers of the abyss to the land of Arcadia."
+		set {item.item::2195} to 1 of {saveitem.Warlock Leggings}
+		set {id.Warlock Leggings} to 2195
+
+		#boot
+		set {item.type::2196} to 2
+		set {item.name::2196} to "&6Warlock Boots"
+		set {item.phys::2196} to 1
+		set {item.fire::2196} to 4
+		set {item.wate::2196} to 0
+		set {item.eart::2196} to 8
+		set {item.wind::2196} to 0
+		set {item.pois::2196} to 2
+		set {item.blee::2196} to 3
+		set {item.slow::2196} to 15
+		set {item.lore::2196} to "A pair of boots belonging to a cultist who sought to bring the powers of the abyss to the land of Arcadia."
+		set {item.item::2196} to 1 of {saveitem.Warlock Boots}
+		set {id.Warlock Boots} to 2196
+
+		#helm
+		set {item.type::2197} to 2
+		set {item.name::2197} to "&6Crusader Helmet"
+		set {item.phys::2197} to 5
+		set {item.fire::2197} to 5
+		set {item.wate::2197} to 4
+		set {item.eart::2197} to 0
+		set {item.wind::2197} to 0
+		set {item.pois::2197} to 0
+		set {item.blee::2197} to 4
+		set {item.slow::2197} to 1
+		set {item.lore::2197} to "A helmet worn by the warriors of the Church of Megido."
+		set {item.item::2197} to 1 of {saveitem.Crusader Helmet}
+		set {id.Crusader Helmet} to 2197
+
+		#chest
+		set {item.type::2198} to 2
+		set {item.name::2198} to "&6Crusader Chestplate"
+		set {item.phys::2198} to 7
+		set {item.fire::2198} to 4
+		set {item.wate::2198} to 3
+		set {item.eart::2198} to 0
+		set {item.wind::2198} to 0
+		set {item.pois::2198} to 1
+		set {item.blee::2198} to 3
+		set {item.slow::2198} to 1
+		set {item.lore::2198} to "A chestplate worn by the warriors of the Church of Megido."
+		set {item.item::2198} to 1 of iron chestplate
+		set {id.Crusader Chestplate} to 2198
+
+		#leg
+		set {item.type::2199} to 2
+		set {item.name::2199} to "&6Crusader Leggings"
+		set {item.phys::2199} to 6
+		set {item.fire::2199} to 3
+		set {item.wate::2199} to 5
+		set {item.eart::2199} to 0
+		set {item.wind::2199} to 0
+		set {item.pois::2199} to 0
+		set {item.blee::2199} to 5
+		set {item.slow::2199} to 0
+		set {item.lore::2199} to "Leggings worn by the warriors of the Church of Megido."
+		set {item.item::2199} to 1 of iron leggings
+		set {id.Crusader Leggings} to 2199
+
+		#boot
+		set {item.type::2200} to 2
+		set {item.name::2200} to "&6Crusader Boots"
+		set {item.phys::2200} to 4
+		set {item.fire::2200} to 4
+		set {item.wate::2200} to 6
+		set {item.eart::2200} to 0
+		set {item.wind::2200} to 0
+		set {item.pois::2200} to 1
+		set {item.blee::2200} to 2
+		set {item.slow::2200} to 2
+		set {item.lore::2200} to "Boots worn by the warriors of the Church of Megido."
+		set {item.item::2200} to 1 of iron boots
+		set {id.Crusader Boots} to 2200
+
+		#helm
+		set {item.type::2201} to 2
+		set {item.name::2201} to "&6Aviator Mask"
+		set {item.phys::2201} to 4
+		set {item.fire::2201} to 2
+		set {item.wate::2201} to 1
+		set {item.eart::2201} to 0
+		set {item.wind::2201} to 6
+		set {item.pois::2201} to 12
+		set {item.blee::2201} to 5
+		set {item.slow::2201} to 3
+		set {item.lore::2201} to "A mask worn by the balloon aviators of Midgard."
+		set {item.item::2201} to 1 of {saveitem.Aviator Mask}
+		set {id.Aviator Mask} to 2201
+
+		#chest
+		set {item.type::2202} to 2
+		set {item.name::2202} to "&6Aviator Tunic"
+		set {item.phys::2202} to 6
+		set {item.fire::2202} to 1
+		set {item.wate::2202} to 1
+		set {item.eart::2202} to 0
+		set {item.wind::2202} to 5
+		set {item.pois::2202} to 7
+		set {item.blee::2202} to 5
+		set {item.slow::2202} to 8
+		set {item.lore::2202} to "A tunic worn by the balloon aviators of Midgard."
+		set {item.item::2202} to 1 of {saveitem.Aviator Tunic}
+		set {id.Aviator Tunic} to 2202
+
+		#leg
+		set {item.type::2203} to 2
+		set {item.name::2203} to "&6Aviator Leggings"
+		set {item.phys::2203} to 5
+		set {item.fire::2203} to 1
+		set {item.wate::2203} to 0
+		set {item.eart::2203} to 0
+		set {item.wind::2203} to 7
+		set {item.pois::2203} to 8
+		set {item.blee::2203} to 2
+		set {item.slow::2203} to 10
+		set {item.lore::2203} to "Leggings worn by the balloon aviators of Midgard."
+		set {item.item::2203} to 1 of {saveitem.Aviator Leggings}
+		set {id.Aviator Leggings} to 2203
+
+		#boot
+		set {item.type::2204} to 2
+		set {item.name::2204} to "&6Aviator Boots"
+		set {item.phys::2204} to 3
+		set {item.fire::2204} to 1
+		set {item.wate::2204} to 3
+		set {item.eart::2204} to 0
+		set {item.wind::2204} to 6
+		set {item.pois::2204} to 9
+		set {item.blee::2204} to 2
+		set {item.slow::2204} to 9
+		set {item.lore::2204} to "Boots worn by the balloon aviators of Midgard."
+		set {item.item::2204} to 1 of {saveitem.Aviator Boots}
+		set {id.Aviator Boots} to 2204
+
+		#helm
+		set {item.type::2205} to 2
+		set {item.name::2205} to "&6Celestial Hood"
+		set {item.phys::2205} to 0
+		set {item.fire::2205} to 0
+		set {item.wate::2205} to 5
+		set {item.eart::2205} to 0
+		set {item.wind::2205} to 7
+		set {item.pois::2205} to 8
+		set {item.blee::2205} to 8
+		set {item.slow::2205} to 8
+		set {item.lore::2205} to "A hood worn by a former servant of the god opposed the Origin. When the god left this world, his servants were left to wander the abyss aimlessly."
+		set {item.item::2205} to 1 of {saveitem.Celestial Hood}
+		set {id.Celestial Hood} to 2205
+
+		#chest
+		set {item.type::2206} to 2
+		set {item.name::2206} to "&6Celestial Cloak"
+		set {item.phys::2206} to 1
+		set {item.fire::2206} to 0
+		set {item.wate::2206} to 5
+		set {item.eart::2206} to 0
+		set {item.wind::2206} to 6
+		set {item.pois::2206} to 8
+		set {item.blee::2206} to 8
+		set {item.slow::2206} to 8
+		set {item.lore::2206} to "A cloak worn by a former servant of the god opposed the Origin. When the god left this world, his servants were left to wander the abyss aimlessly."
+		set {item.item::2206} to 1 of {saveitem.Celestial Cloak}
+		set {id.Celestial Cloak} to 2206
+
+		#leg
+		set {item.type::2207} to 2
+		set {item.name::2207} to "&6Celestial Dress"
+		set {item.phys::2207} to 1
+		set {item.fire::2207} to 0
+		set {item.wate::2207} to 6
+		set {item.eart::2207} to 0
+		set {item.wind::2207} to 5
+		set {item.pois::2207} to 8
+		set {item.blee::2207} to 8
+		set {item.slow::2207} to 8
+		set {item.lore::2207} to "A dress worn by a former servant of the god opposed the Origin. When the god left this world, his servants were left to wander the abyss aimlessly."
+		set {item.item::2207} to 1 of {saveitem.Celestial Dress}
+		set {id.Celestial Dress} to 2207
+
+		#boot
+		set {item.type::2208} to 2
+		set {item.name::2208} to "&6Celestial Boots"
+		set {item.phys::2208} to 0
+		set {item.fire::2208} to 0
+		set {item.wate::2208} to 7
+		set {item.eart::2208} to 0
+		set {item.wind::2208} to 5
+		set {item.pois::2208} to 8
+		set {item.blee::2208} to 8
+		set {item.slow::2208} to 8
+		set {item.lore::2208} to "Shoes worn by a former servant of the god opposed the Origin. When the god left this world, his servants were left to wander the abyss aimlessly."
+		set {item.item::2208} to 1 of {saveitem.Celestial Boots}
+		set {id.Celestial Boots} to 2208
+
+		#helm
+		set {item.type::2209} to 2
+		set {item.name::2209} to "&6Frozen Skull"
+		set {item.phys::2209} to 3
+		set {item.fire::2209} to -4
+		set {item.wate::2209} to 5
+		set {item.eart::2209} to 5
+		set {item.wind::2209} to 0
+		set {item.pois::2209} to 2
+		set {item.blee::2209} to 4
+		set {item.slow::2209} to 8
+		set {item.lore::2209} to "A skull of the lost soul of a soldier that once protected the Darkwater civilization."
+		set {item.item::2209} to 1 of {saveitem.Frozen Skull}
+		set {id.Frozen Skull} to 2209
+
+		#chest
+		set {item.type::2210} to 2
+		set {item.name::2210} to "&6Frozen Chestplate"
+		set {item.phys::2210} to 5
+		set {item.fire::2210} to -6
+		set {item.wate::2210} to 4
+		set {item.eart::2210} to 4
+		set {item.wind::2210} to 0
+		set {item.pois::2210} to 2
+		set {item.blee::2210} to 5
+		set {item.slow::2210} to 7
+		set {item.lore::2210} to "A chestplate from a lost soul of a soldier that once protected the Darkwater civilization."
+		set {item.item::2210} to 1 of {saveitem.Frozen Chestplate}
+		set {id.Frozen Chestplate} to 2210
+
+		#leg
+		set {item.type::2211} to 2
+		set {item.name::2211} to "&6Frozen Leggings"
+		set {item.phys::2211} to 4
+		set {item.fire::2211} to -5
+		set {item.wate::2211} to 5
+		set {item.eart::2211} to 4
+		set {item.wind::2211} to 0
+		set {item.pois::2211} to 1
+		set {item.blee::2211} to 4
+		set {item.slow::2211} to 9
+		set {item.lore::2211} to "Leggings from a lost soul of a soldier that once protected the Darkwater civilization."
+		set {item.item::2211} to 1 of {saveitem.Frozen Leggings}
+		set {id.Frozen Leggings} to 2211
+
+		#boot
+		set {item.type::2212} to 2
+		set {item.name::2212} to "&6Frozen Boots"
+		set {item.phys::2212} to 2
+		set {item.fire::2212} to -4
+		set {item.wate::2212} to 5
+		set {item.eart::2212} to 6
+		set {item.wind::2212} to 0
+		set {item.pois::2212} to 1
+		set {item.blee::2212} to 2
+		set {item.slow::2212} to 10
+		set {item.lore::2212} to "Boots from a lost soul of a soldier that once protected the Darkwater civilization."
+		set {item.item::2212} to 1 of {saveitem.Frozen Boots}
+		set {id.Frozen Boots} to 2212
+
+		#helm
+		set {item.type::2213} to 2
+		set {item.name::2213} to "&6Devil Crown"
+		set {item.phys::2213} to 2
+		set {item.fire::2213} to 5
+		set {item.wate::2213} to -1
+		set {item.eart::2213} to 4
+		set {item.wind::2213} to -2
+		set {item.pois::2213} to 2
+		set {item.blee::2213} to 15
+		set {item.slow::2213} to 3
+		set {item.lore::2213} to "The crown of an ancient human who was cursed to serve the Origin for all of eternity."
+		set {item.item::2213} to 1 of {saveitem.Devil Crown}
+		set {id.Devil Crown} to 2213
+
+		#chest
+		set {item.type::2214} to 2
+		set {item.name::2214} to "&6Devil Cape"
+		set {item.phys::2214} to 4
+		set {item.fire::2214} to 5
+		set {item.wate::2214} to -2
+		set {item.eart::2214} to 2
+		set {item.wind::2214} to -3
+		set {item.pois::2214} to 1
+		set {item.blee::2214} to 16
+		set {item.slow::2214} to 3
+		set {item.lore::2214} to "The cape of an ancient human who was cursed to serve the Origin for all of eternity."
+		set {item.item::2214} to 1 of {saveitem.Devil Cape}
+		set {id.Frozen Devil Cape} to 2214
+
+		#leg
+		set {item.type::2215} to 2
+		set {item.name::2215} to "&6Devil Leggings"
+		set {item.phys::2215} to 3
+		set {item.fire::2215} to 6
+		set {item.wate::2215} to -2
+		set {item.eart::2215} to 3
+		set {item.wind::2215} to -2
+		set {item.pois::2215} to 3
+		set {item.blee::2215} to 14
+		set {item.slow::2215} to 3
+		set {item.lore::2215} to "The leggings of an ancient human who was cursed to serve the Origin for all of eternity."
+		set {item.item::2215} to 1 of {saveitem.Devil Kilt}
+		set {id.Devil Leggings} to 2215
+
+		#boot
+		set {item.type::2216} to 2
+		set {item.name::2216} to "&6Devil Boots"
+		set {item.phys::2216} to 1
+		set {item.fire::2216} to 6
+		set {item.wate::2216} to -1
+		set {item.eart::2216} to 4
+		set {item.wind::2216} to -1
+		set {item.pois::2216} to 4
+		set {item.blee::2216} to 11
+		set {item.slow::2216} to 5
+		set {item.lore::2216} to "The boots of an ancient human who was cursed to serve the Origin for all of eternity."
+		set {item.item::2216} to 1 of {saveitem.Devil Boots}
+		set {id.Devil Boots} to 2216
+
+		#helm
+		set {item.type::2217} to 2
+		set {item.name::2217} to "&6Llylgamyn Helm"
+		set {item.phys::2217} to 5
+		set {item.fire::2217} to 8
+		set {item.wate::2217} to 0
+		set {item.eart::2217} to 0
+		set {item.wind::2217} to 0
+		set {item.pois::2217} to 10
+		set {item.blee::2217} to 1
+		set {item.slow::2217} to 1
+		set {item.lore::2217} to "The helmet worn by the legendary hero who prevented the Origin's resurrection in an age past."
+		set {item.item::2217} to glowing diamond helmet
+		set {id.Llylgamyn Helm} to 2217
+		
+		#chest
+		set {item.type::2218} to 2
+		set {item.name::2218} to "&6Llylgamyn Chestplate"
+		set {item.phys::2218} to 5
+		set {item.fire::2218} to 0
+		set {item.wate::2218} to 8
+		set {item.eart::2218} to 0
+		set {item.wind::2218} to 0
+		set {item.pois::2218} to 1
+		set {item.blee::2218} to 10
+		set {item.slow::2218} to 1
+		set {item.lore::2218} to "The chestplate worn by the legendary hero who prevented the Origin's resurrection in an age past."
+		set {item.item::2218} to glowing diamond chestplate
+		set {id.Llylgamyn Chestplate} to 2218
+		
+		#leg
+		set {item.type::2219} to 2
+		set {item.name::2219} to "&6Llylgamyn Leggings"
+		set {item.phys::2219} to 5
+		set {item.fire::2219} to 0
+		set {item.wate::2219} to 0
+		set {item.eart::2219} to 8
+		set {item.wind::2219} to 0
+		set {item.pois::2219} to 1
+		set {item.blee::2219} to 1
+		set {item.slow::2219} to 10
+		set {item.lore::2219} to "The leggings worn by the legendary hero who prevented the Origin's resurrection in an age past."
+		set {item.item::2219} to glowing diamond leggings
+		set {id.Llylgamyn Leggings} to 2219
+		
+		#boot
+		set {item.type::2220} to 2
+		set {item.name::2220} to "&6Llylgamyn Boots"
+		set {item.phys::2220} to 5
+		set {item.fire::2220} to 0
+		set {item.wate::2220} to 0
+		set {item.eart::2220} to 0
+		set {item.wind::2220} to 8
+		set {item.pois::2220} to 4
+		set {item.blee::2220} to 4
+		set {item.slow::2220} to 4
+		set {item.lore::2220} to "The boots worn by the legendary hero who prevented the Origin's resurrection in an age past."
+		set {item.item::2220} to glowing diamond boots
+		set {id.Llylgamyn Boots} to 2220
